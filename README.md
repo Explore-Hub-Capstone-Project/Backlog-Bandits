@@ -6,3 +6,5 @@ Travel Planner is a comprehensive travel planning system that empowers users to 
 Group Members: 
 
 Anita Ershadi
+Dhruvi Rajeshlal Patel
+Khusboo Ketan Patel
