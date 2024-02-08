@@ -1,2562 +1,769 @@
 {
-  "status": true,
-  "message": "Success",
-  "timestamp": 1706915295022,
-  "data": {
-    "session": {
-      "searchHash": "759cd02844d10c37df9a223190e68313",
-      "pageLoadUid": "dabcc5a9-3fac-4285-bc0c-64a20aa70b24",
-      "searchId": "785a5352-8f45-4aea-b36b-e5cb6705ad69.37",
-      "filterSettings": {
-        "tt": "",
-        "aa": "BOM",
-        "a": "",
-        "d": "",
-        "ns": "",
-        "cos": "0",
-        "fq": "",
-        "al": "",
-        "ft": "",
-        "sid": "",
-        "oc": "",
-        "plp": "",
-        "mc": "",
-        "da": "EWR",
-        "pRange": "-1,-1",
-        "ca": ""
-      }
-    },
-    "complete": false,
-    "numOfFilters": 24,
-    "totalNumResults": 67,
-    "flights": [
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T11:15:00-05:00",
-                "arrivalDateTime": "2024-03-04T12:05:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "AI",
-                "operatingCarrierCode": "AI",
-                "equipmentId": "Boeing 777-300ER",
-                "amenities": [],
-                "flightNumber": 144,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 12559.897,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729004,
-                  "code": "AI",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AirIndia.png",
-                  "displayName": "Air India"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729004,
-                  "code": "AI",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AirIndia.png",
-                  "displayName": "Air India"
+    "status": true,
+    "message": "Success",
+    "timestamp": 1707361334786,
+    "data": {
+        "session": {
+            "searchHash": "3c6b73c81834f14032ed2bd5b6eb129f",
+            "pageLoadUid": "227707fd-706e-4d16-a255-47618fefe3cd",
+            "searchId": "e9be61da-5089-4f3d-b561-29057b305b29.145",
+            "filterSettings": {
+                "tt": "",
+                "aa": "DEL",
+                "a": "",
+                "d": "",
+                "ns": "",
+                "cos": "0",
+                "al": "",
+                "fq": "",
+                "ft": "",
+                "sid": "",
+                "oc": "",
+                "plp": "",
+                "mc": "",
+                "pRange": "-1,-1",
+                "da": "BOM",
+                "ca": ""
+            }
+        },
+        "complete": false,
+        "numOfFilters": 28,
+        "totalNumResults": 28,
+        "flights": [
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T01:20:00+05:30",
+                                "arrivalDateTime": "2024-03-20T03:35:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A321-100/200",
+                                "amenities": [],
+                                "flightNumber": 984,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|9",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 134.4,
+                        "totalPricePerPassenger": 67.2,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|9&area=FLTCenterColumn|0|1|ItinList|2|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=67.2"
+                    }
+                ],
+                "itineraryTag": {
+                    "tag": "Best Value",
+                    "type": "BEST_VALUE"
                 }
-              }
-            ],
-            "layovers": []
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|3|77",
-            "providerId": "eDreams",
-            "partnerSuppliedProvider": {
-              "id": "EDREAMSAIR",
-              "displayName": "eDreams",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/EDREAMSAIR.us.png?crop=false&width=166&height=62&fallback=default2.png&_v=af0479a857c0eb142b1531d305bbf971"
             },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 961.78,
-            "totalPricePerPassenger": 480.89,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|77&area=FLTCenterColumn|0|1|ItinList|2|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=480.89"
-          }
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T05:50:00+05:30",
+                                "arrivalDateTime": "2024-03-20T07:55:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A320-100/200",
+                                "amenities": [],
+                                "flightNumber": 954,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|10",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 138.6,
+                        "totalPricePerPassenger": 69.3,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|10&area=FLTCenterColumn|0|1|ItinList|3|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=69.3"
+                    }
+                ]
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T19:10:00+05:30",
+                                "arrivalDateTime": "2024-03-20T21:15:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A321-100/200",
+                                "amenities": [],
+                                "flightNumber": 938,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|17",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 138.6,
+                        "totalPricePerPassenger": 69.3,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|17&area=FLTCenterColumn|0|1|ItinList|4|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=69.3"
+                    }
+                ]
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T18:30:00+05:30",
+                                "arrivalDateTime": "2024-03-20T20:40:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A320-100/200",
+                                "amenities": [],
+                                "flightNumber": 996,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|11",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 138.6,
+                        "totalPricePerPassenger": 69.3,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|11&area=FLTCenterColumn|0|1|ItinList|6|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=69.3"
+                    }
+                ]
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T19:45:00+05:30",
+                                "arrivalDateTime": "2024-03-20T21:55:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A320-100/200",
+                                "amenities": [],
+                                "flightNumber": 940,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|5",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 138.6,
+                        "totalPricePerPassenger": 69.3,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|5&area=FLTCenterColumn|0|1|ItinList|7|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=69.3"
+                    }
+                ]
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T22:50:00+05:30",
+                                "arrivalDateTime": "2024-03-21T01:00:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A321-100/200",
+                                "amenities": [],
+                                "flightNumber": 986,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|13",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 138.6,
+                        "totalPricePerPassenger": 69.3,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|13&area=FLTCenterColumn|0|1|ItinList|8|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=69.3"
+                    }
+                ]
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T21:55:00+05:30",
+                                "arrivalDateTime": "2024-03-21T00:10:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A320-100/200",
+                                "amenities": [],
+                                "flightNumber": 950,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|4",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 138.6,
+                        "totalPricePerPassenger": 69.3,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|4&area=FLTCenterColumn|0|1|ItinList|9|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=69.3"
+                    }
+                ]
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T17:25:00+05:30",
+                                "arrivalDateTime": "2024-03-20T19:45:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A320-100/200",
+                                "amenities": [],
+                                "flightNumber": 910,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|8",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 149.2,
+                        "totalPricePerPassenger": 74.6,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|8&area=FLTCenterColumn|0|1|ItinList|10|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=74.6"
+                    }
+                ]
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T11:55:00+05:30",
+                                "arrivalDateTime": "2024-03-20T13:55:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A320-100/200",
+                                "amenities": [],
+                                "flightNumber": 960,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|23",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 161.8,
+                        "totalPricePerPassenger": 80.9,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|23&area=FLTCenterColumn|0|1|ItinList|12|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=80.9"
+                    }
+                ],
+                "itineraryTag": {
+                    "tag": "Shortest",
+                    "type": "SHORTEST"
+                }
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T06:30:00+05:30",
+                                "arrivalDateTime": "2024-03-20T08:40:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A320-100/200",
+                                "amenities": [],
+                                "flightNumber": 928,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|16",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 161.8,
+                        "totalPricePerPassenger": 80.9,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|16&area=FLTCenterColumn|0|1|ItinList|13|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=80.9"
+                    }
+                ]
+            },
+            {
+                "segments": [
+                    {
+                        "legs": [
+                            {
+                                "originStationCode": "BOM",
+                                "isDifferentOriginStation": false,
+                                "destinationStationCode": "DEL",
+                                "isDifferentDestinationStation": false,
+                                "departureDateTime": "2024-03-20T07:30:00+05:30",
+                                "arrivalDateTime": "2024-03-20T09:40:00+05:30",
+                                "classOfService": "ECONOMY",
+                                "marketingCarrierCode": "UK",
+                                "operatingCarrierCode": "UK",
+                                "equipmentId": "Airbus A321-100/200",
+                                "amenities": [],
+                                "flightNumber": 930,
+                                "seatGuruEquipmentId": 0,
+                                "seatGuruAirlineUrl": "",
+                                "numStops": 0,
+                                "distanceInKM": 1138.1091,
+                                "isInternational": false,
+                                "selfTransfer": false,
+                                "operatingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                },
+                                "marketingCarrier": {
+                                    "locationId": 8729207,
+                                    "code": "UK",
+                                    "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Vistara.png",
+                                    "displayName": "Vistara"
+                                }
+                            }
+                        ],
+                        "layovers": []
+                    }
+                ],
+                "purchaseLinks": [
+                    {
+                        "purchaseLinkId": "Kayak|2|6",
+                        "providerId": "Vistara",
+                        "partnerSuppliedProvider": {
+                            "id": "UK",
+                            "displayName": "Vistara",
+                            "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UK.png?crop=false&width=166&height=62&fallback=default2.png&_v=70673476ce3854369868788c913f25cc"
+                        },
+                        "commerceName": "KayakFlightsMeta",
+                        "currency": "USD",
+                        "originalCurrency": "USD",
+                        "seatAvailability": 0,
+                        "taxesAndFees": 0,
+                        "taxesAndFeesPerPassenger": 0,
+                        "totalPrice": 161.8,
+                        "totalPricePerPassenger": 80.9,
+                        "fareBasisCodes": [],
+                        "containedPurchaseLinks": [],
+                        "partnerData": {},
+                        "isPaid": false,
+                        "fareAttributesList": [],
+                        "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=3c6b73c81834f14032ed2bd5b6eb129f&provider=Kayak|2|6&area=FLTCenterColumn|0|1|ItinList|14|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=80.9"
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "MUC",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T20:50:00-05:00",
-                "arrivalDateTime": "2024-03-04T10:20:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Airbus A350-900",
-                "amenities": [],
-                "flightNumber": 413,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6510.3237,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "MUC",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T11:40:00+01:00",
-                "arrivalDateTime": "2024-03-04T23:55:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Airbus A350-900",
-                "amenities": [],
-                "flightNumber": 766,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6319.3086,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 80
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|3|2",
-            "providerId": "eDreams",
-            "partnerSuppliedProvider": {
-              "id": "EDREAMSAIR",
-              "displayName": "eDreams",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/EDREAMSAIR.us.png?crop=false&width=166&height=62&fallback=default2.png&_v=af0479a857c0eb142b1531d305bbf971"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 984.62,
-            "totalPricePerPassenger": 492.31,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|2&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=492.31"
-          },
-          {
-            "purchaseLinkId": "Kayak|2|1",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 995.2,
-            "totalPricePerPassenger": 497.6,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Light",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 0,
-                "firstCheckedBagFee": -1,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": false,
-                "ticketChangeFeeObj": {
-                  "feeType": "UNKNOWN",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|2|1&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=497.6"
-          },
-          {
-            "purchaseLinkId": "Kayak|3|3",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1175.2,
-            "totalPricePerPassenger": 587.6,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|3&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=587.6"
-          },
-          {
-            "purchaseLinkId": "Kayak|3|4",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 7915.2,
-            "totalPricePerPassenger": 3957.6,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|4&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=3957.6"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|6",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 11515.2,
-            "totalPricePerPassenger": 5757.6,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Premium Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|6&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=5757.6"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|7",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 12975.2,
-            "totalPricePerPassenger": 6487.6,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Business Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|7&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=6487.6"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "ZRH",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T18:50:00-05:00",
-                "arrivalDateTime": "2024-03-04T08:40:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LX",
-                "operatingCarrierCode": "UA",
-                "equipmentId": "Boeing 767-300",
-                "amenities": [],
-                "flightNumber": 3219,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6340.251,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729177,
-                  "code": "UA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
-                  "displayName": "United"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729160,
-                  "code": "LX",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/SwissInternational.png",
-                  "displayName": "SWISS"
-                }
-              },
-              {
-                "originStationCode": "ZRH",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T09:45:00+01:00",
-                "arrivalDateTime": "2024-03-04T22:25:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LX",
-                "operatingCarrierCode": "LX",
-                "equipmentId": "Airbus A330-300",
-                "amenities": [],
-                "flightNumber": 154,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6546.3384,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729160,
-                  "code": "LX",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/SwissInternational.png",
-                  "displayName": "SWISS"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729160,
-                  "code": "LX",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/SwissInternational.png",
-                  "displayName": "SWISS"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "SHORT",
-                "hasStationChange": false,
-                "durationInMinutes": 65
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|3|30",
-            "providerId": "eDreams",
-            "partnerSuppliedProvider": {
-              "id": "EDREAMSAIR",
-              "displayName": "eDreams",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/EDREAMSAIR.us.png?crop=false&width=166&height=62&fallback=default2.png&_v=af0479a857c0eb142b1531d305bbf971"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1155.96,
-            "totalPricePerPassenger": 577.98,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|30&area=FLTCenterColumn|0|1|ItinList|4|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=577.98"
-          },
-          {
-            "purchaseLinkId": "Kayak|2|12",
-            "providerId": "SWISS",
-            "partnerSuppliedProvider": {
-              "id": "LX",
-              "displayName": "SWISS",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LX.png?crop=false&width=166&height=62&fallback=default3.png&_v=2e942d985812bbaa3f38e7c5200e1bb2"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1171.8,
-            "totalPricePerPassenger": 585.9,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|2|12&area=FLTCenterColumn|0|1|ItinList|4|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=585.9"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "IST",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T00:20:00-05:00",
-                "arrivalDateTime": "2024-03-03T17:50:00+03:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "TK",
-                "operatingCarrierCode": "TK",
-                "equipmentId": "Boeing 787-9 Dreamliner",
-                "amenities": [],
-                "flightNumber": 30,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 8058.2905,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729174,
-                  "code": "TK",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Turkish-Airlines.png",
-                  "displayName": "Turkish Airlines"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729174,
-                  "code": "TK",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Turkish-Airlines.png",
-                  "displayName": "Turkish Airlines"
-                }
-              },
-              {
-                "originStationCode": "IST",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T20:30:00+03:00",
-                "arrivalDateTime": "2024-03-04T05:10:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "TK",
-                "operatingCarrierCode": "TK",
-                "equipmentId": "Boeing 777-300ER",
-                "amenities": [],
-                "flightNumber": 720,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 4839.948,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729174,
-                  "code": "TK",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Turkish-Airlines.png",
-                  "displayName": "Turkish Airlines"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729174,
-                  "code": "TK",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Turkish-Airlines.png",
-                  "displayName": "Turkish Airlines"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 160
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|3|69",
-            "providerId": "eDreams",
-            "partnerSuppliedProvider": {
-              "id": "EDREAMSAIR",
-              "displayName": "eDreams",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/EDREAMSAIR.us.png?crop=false&width=166&height=62&fallback=default2.png&_v=af0479a857c0eb142b1531d305bbf971"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1028.52,
-            "totalPricePerPassenger": 514.26,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|69&area=FLTCenterColumn|0|1|ItinList|6|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=514.26"
-          },
-          {
-            "purchaseLinkId": "Kayak|2|33",
-            "providerId": "Turkish Airlines",
-            "partnerSuppliedProvider": {
-              "id": "TK",
-              "displayName": "Turkish Airlines",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/TK.png?crop=false&width=166&height=62&fallback=default1.png&_v=0ccef02127132404e33f65e4c053ad1b"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1046.6,
-            "totalPricePerPassenger": 523.3,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|2|33&area=FLTCenterColumn|0|1|ItinList|6|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=523.3"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "FRA",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T19:40:00-05:00",
-                "arrivalDateTime": "2024-03-04T09:10:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "UA",
-                "equipmentId": "Boeing 787 Dreamliner",
-                "amenities": [],
-                "flightNumber": 7602,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6217.321,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729177,
-                  "code": "UA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
-                  "displayName": "United"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "FRA",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T12:35:00+01:00",
-                "arrivalDateTime": "2024-03-05T01:00:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Boeing 747-400",
-                "amenities": [],
-                "flightNumber": 756,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6576.9634,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 205
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|3|34",
-            "providerId": "eDreams",
-            "partnerSuppliedProvider": {
-              "id": "EDREAMSAIR",
-              "displayName": "eDreams",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/EDREAMSAIR.us.png?crop=false&width=166&height=62&fallback=default2.png&_v=af0479a857c0eb142b1531d305bbf971"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1196.56,
-            "totalPricePerPassenger": 598.28,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|34&area=FLTCenterColumn|0|1|ItinList|7|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=598.28"
-          },
-          {
-            "purchaseLinkId": "Kayak|2|16",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1211.8,
-            "totalPricePerPassenger": 605.9,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|2|16&area=FLTCenterColumn|0|1|ItinList|7|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=605.9"
-          },
-          {
-            "purchaseLinkId": "Kayak|3|35",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 7951.8,
-            "totalPricePerPassenger": 3975.9,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|35&area=FLTCenterColumn|0|1|ItinList|7|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=3975.9"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|43",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 11551.8,
-            "totalPricePerPassenger": 5775.9,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Premium Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|43&area=FLTCenterColumn|0|1|ItinList|7|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=5775.9"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "LHR",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T18:35:00-05:00",
-                "arrivalDateTime": "2024-03-04T06:15:00Z",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "BA",
-                "operatingCarrierCode": "BA",
-                "equipmentId": "Boeing 777",
-                "amenities": [],
-                "flightNumber": 184,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 5568.714,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729039,
-                  "code": "BA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/BritishAirways.png",
-                  "displayName": "British Airways"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729039,
-                  "code": "BA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/BritishAirways.png",
-                  "displayName": "British Airways"
-                }
-              },
-              {
-                "originStationCode": "LHR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T09:30:00Z",
-                "arrivalDateTime": "2024-03-05T00:10:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "BA",
-                "operatingCarrierCode": "BA",
-                "equipmentId": "Airbus A350-1000",
-                "amenities": [],
-                "flightNumber": 139,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 7220.362,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729039,
-                  "code": "BA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/BritishAirways.png",
-                  "displayName": "British Airways"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729039,
-                  "code": "BA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/BritishAirways.png",
-                  "displayName": "British Airways"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 195
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|1|2",
-            "providerId": "British Airways",
-            "partnerSuppliedProvider": {
-              "id": "BA",
-              "displayName": "British Airways",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/BA.png?crop=false&width=166&height=62&fallback=default3.png&_v=e3074db1d77f8a72fe716e8384222560"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 2456.4,
-            "totalPricePerPassenger": 1228.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Basic Economy",
-              "carrierCode": "BA"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 0,
-                "firstCheckedBagFee": -1,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|1|2&area=FLTCenterColumn|0|1|ItinList|8|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=1228.2"
-          },
-          {
-            "purchaseLinkId": "Kayak|1|3",
-            "providerId": "British Airways",
-            "partnerSuppliedProvider": {
-              "id": "BA",
-              "displayName": "British Airways",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/BA.png?crop=false&width=166&height=62&fallback=default3.png&_v=e3074db1d77f8a72fe716e8384222560"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 4286.4,
-            "totalPricePerPassenger": 2143.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Premium Economy",
-              "carrierCode": "BA"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": -1,
-                "firstCheckedBagFee": -1,
-                "secondCheckedBagFee": -1,
-                "seatSelectionFeeObj": {
-                  "feeType": "UNKNOWN",
-                  "feeValue": -1
-                },
-                "ticketChangeFeeObj": {
-                  "feeType": "UNKNOWN",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|1|3&area=FLTCenterColumn|0|1|ItinList|8|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=2143.2"
-          },
-          {
-            "purchaseLinkId": "Kayak|1|4",
-            "providerId": "British Airways",
-            "partnerSuppliedProvider": {
-              "id": "BA",
-              "displayName": "British Airways",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/BA.png?crop=false&width=166&height=62&fallback=default3.png&_v=e3074db1d77f8a72fe716e8384222560"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 9338.4,
-            "totalPricePerPassenger": 4669.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Premium Economy Fully Flex",
-              "carrierCode": "BA"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionFeeObj": {
-                  "feeType": "UNKNOWN",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|1|4&area=FLTCenterColumn|0|1|ItinList|8|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=4669.2"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|19",
-            "providerId": "British Airways",
-            "partnerSuppliedProvider": {
-              "id": "BA",
-              "displayName": "British Airways",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/BA.png?crop=false&width=166&height=62&fallback=default3.png&_v=e3074db1d77f8a72fe716e8384222560"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 17016.4,
-            "totalPricePerPassenger": 8508.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Business Fully Flex",
-              "carrierCode": "BA"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": -1,
-                "firstCheckedBagFee": -1,
-                "secondCheckedBagFee": -1,
-                "seatSelectionFeeObj": {
-                  "feeType": "UNKNOWN",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|19&area=FLTCenterColumn|0|1|ItinList|8|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=8508.2"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "FRA",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T18:10:00-05:00",
-                "arrivalDateTime": "2024-03-04T07:35:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Boeing 747-8",
-                "amenities": [],
-                "flightNumber": 403,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6217.321,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "FRA",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "MUC",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T09:15:00+01:00",
-                "arrivalDateTime": "2024-03-04T10:10:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Airbus A321-100/200",
-                "amenities": [],
-                "flightNumber": 98,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 300.17743,
-                "isInternational": false,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "MUC",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T11:40:00+01:00",
-                "arrivalDateTime": "2024-03-04T23:55:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Airbus A350-900",
-                "amenities": [],
-                "flightNumber": 766,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6319.3086,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 100
-              },
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 90
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|3|53",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1072.4,
-            "totalPricePerPassenger": 536.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Light",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 0,
-                "firstCheckedBagFee": -1,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": false,
-                "ticketChangeFeeObj": {
-                  "feeType": "UNKNOWN",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|53&area=FLTCenterColumn|0|1|ItinList|9|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=536.2"
-          },
-          {
-            "purchaseLinkId": "Kayak|3|54",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1252.4,
-            "totalPricePerPassenger": 626.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|54&area=FLTCenterColumn|0|1|ItinList|9|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=626.2"
-          },
-          {
-            "purchaseLinkId": "Kayak|3|56",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 7992.4,
-            "totalPricePerPassenger": 3996.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|56&area=FLTCenterColumn|0|1|ItinList|9|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=3996.2"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|22",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 11592.4,
-            "totalPricePerPassenger": 5796.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Premium Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|22&area=FLTCenterColumn|0|1|ItinList|9|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=5796.2"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|23",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 13052.4,
-            "totalPricePerPassenger": 6526.2,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Business Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|23&area=FLTCenterColumn|0|1|ItinList|9|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=6526.2"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "LHR",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T18:00:00-05:00",
-                "arrivalDateTime": "2024-03-04T06:20:00Z",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "UA",
-                "equipmentId": "Boeing 767-300",
-                "amenities": [],
-                "flightNumber": 7768,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 5568.714,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729177,
-                  "code": "UA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
-                  "displayName": "United"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "LHR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "MUC",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T07:40:00Z",
-                "arrivalDateTime": "2024-03-04T10:30:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Airbus A320neo",
-                "amenities": [],
-                "flightNumber": 2487,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 941.87067,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "MUC",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T11:40:00+01:00",
-                "arrivalDateTime": "2024-03-04T23:55:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Airbus A350-900",
-                "amenities": [],
-                "flightNumber": 766,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6319.3086,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 80
-              },
-              {
-                "durationType": "SHORT",
-                "hasStationChange": false,
-                "durationInMinutes": 70
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|3|63",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1210,
-            "totalPricePerPassenger": 605,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|63&area=FLTCenterColumn|0|1|ItinList|10|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=605"
-          },
-          {
-            "purchaseLinkId": "Kayak|3|64",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 7950,
-            "totalPricePerPassenger": 3975,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|3|64&area=FLTCenterColumn|0|1|ItinList|10|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=3975"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|33",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 11550,
-            "totalPricePerPassenger": 5775,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Premium Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|33&area=FLTCenterColumn|0|1|ItinList|10|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=5775"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOS",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T18:35:00-05:00",
-                "arrivalDateTime": "2024-03-03T20:01:00-05:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "KL",
-                "operatingCarrierCode": "DL",
-                "equipmentId": "Embraer 175",
-                "amenities": [],
-                "flightNumber": 7991,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 322.7583,
-                "isInternational": false,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729060,
-                  "code": "DL",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
-                  "displayName": "Delta"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729104,
-                  "code": "KL",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/KLM.png",
-                  "displayName": "KLM"
-                }
-              },
-              {
-                "originStationCode": "BOS",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "AMS",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T21:10:00-05:00",
-                "arrivalDateTime": "2024-03-04T09:50:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "KL",
-                "operatingCarrierCode": "KL",
-                "equipmentId": "Boeing 787-9 Dreamliner",
-                "amenities": [],
-                "flightNumber": 618,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 5553.6167,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729104,
-                  "code": "KL",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/KLM.png",
-                  "displayName": "KLM"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729104,
-                  "code": "KL",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/KLM.png",
-                  "displayName": "KLM"
-                }
-              },
-              {
-                "originStationCode": "AMS",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T11:45:00+01:00",
-                "arrivalDateTime": "2024-03-05T00:40:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "KL",
-                "operatingCarrierCode": "KL",
-                "equipmentId": "Boeing 787-10 Dreamliner",
-                "amenities": [],
-                "flightNumber": 877,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6867.197,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729104,
-                  "code": "KL",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/KLM.png",
-                  "displayName": "KLM"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729104,
-                  "code": "KL",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/KLM.png",
-                  "displayName": "KLM"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 69
-              },
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 115
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|2|25",
-            "providerId": "KLM",
-            "partnerSuppliedProvider": {
-              "id": "KL",
-              "displayName": "KLM",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/KL.png?crop=false&width=166&height=62&fallback=default2.png&_v=1e1eff067fbe5dcbe38e7b7f5fc13da4"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1062.2,
-            "totalPricePerPassenger": 531.1,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|2|25&area=FLTCenterColumn|0|1|ItinList|12|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=531.1"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "LHR",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T18:45:00-05:00",
-                "arrivalDateTime": "2024-03-04T06:55:00Z",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "UA",
-                "equipmentId": "Boeing 767-300",
-                "amenities": [],
-                "flightNumber": 7626,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 5568.714,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729177,
-                  "code": "UA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
-                  "displayName": "United"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "LHR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "FRA",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T08:30:00Z",
-                "arrivalDateTime": "2024-03-04T11:05:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Airbus A320neo",
-                "amenities": [],
-                "flightNumber": 925,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 653.9857,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "FRA",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T12:35:00+01:00",
-                "arrivalDateTime": "2024-03-05T01:00:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Boeing 747-400",
-                "amenities": [],
-                "flightNumber": 756,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6576.9634,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 95
-              },
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 90
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|4|28",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1225,
-            "totalPricePerPassenger": 612.5,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|28&area=FLTCenterColumn|0|1|ItinList|13|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=612.5"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|29",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 7413,
-            "totalPricePerPassenger": 3706.5,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Business Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|29&area=FLTCenterColumn|0|1|ItinList|13|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=3706.5"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|30",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 7965,
-            "totalPricePerPassenger": 3982.5,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|30&area=FLTCenterColumn|0|1|ItinList|13|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=3982.5"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|31",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 11565,
-            "totalPricePerPassenger": 5782.5,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Premium Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|31&area=FLTCenterColumn|0|1|ItinList|13|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=5782.5"
-          }
-        ]
-      },
-      {
-        "segments": [
-          {
-            "legs": [
-              {
-                "originStationCode": "EWR",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "MUC",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-03T17:20:00-05:00",
-                "arrivalDateTime": "2024-03-04T07:20:00+01:00",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "UA",
-                "equipmentId": "Boeing 767-400",
-                "amenities": [],
-                "flightNumber": 7608,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6510.3237,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729177,
-                  "code": "UA",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
-                  "displayName": "United"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              },
-              {
-                "originStationCode": "MUC",
-                "isDifferentOriginStation": false,
-                "destinationStationCode": "BOM",
-                "isDifferentDestinationStation": false,
-                "departureDateTime": "2024-03-04T11:40:00+01:00",
-                "arrivalDateTime": "2024-03-04T23:55:00+05:30",
-                "classOfService": "ECONOMY",
-                "marketingCarrierCode": "LH",
-                "operatingCarrierCode": "LH",
-                "equipmentId": "Airbus A350-900",
-                "amenities": [],
-                "flightNumber": 766,
-                "seatGuruEquipmentId": 0,
-                "seatGuruAirlineUrl": "",
-                "numStops": 0,
-                "distanceInKM": 6319.3086,
-                "isInternational": true,
-                "selfTransfer": false,
-                "operatingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                },
-                "marketingCarrier": {
-                  "locationId": 8729113,
-                  "code": "LH",
-                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Lufthansa_02.png",
-                  "displayName": "Lufthansa"
-                }
-              }
-            ],
-            "layovers": [
-              {
-                "durationType": "NORMAL",
-                "hasStationChange": false,
-                "durationInMinutes": 260
-              }
-            ]
-          }
-        ],
-        "purchaseLinks": [
-          {
-            "purchaseLinkId": "Kayak|4|14",
-            "providerId": "eDreams",
-            "partnerSuppliedProvider": {
-              "id": "EDREAMSAIR",
-              "displayName": "eDreams",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/EDREAMSAIR.us.png?crop=false&width=166&height=62&fallback=default2.png&_v=af0479a857c0eb142b1531d305bbf971"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1159.76,
-            "totalPricePerPassenger": 579.88,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|14&area=FLTCenterColumn|0|1|ItinList|14|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=579.88"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|15",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 1175.2,
-            "totalPricePerPassenger": 587.6,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Basic",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|15&area=FLTCenterColumn|0|1|ItinList|14|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=587.6"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|16",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 7915.2,
-            "totalPricePerPassenger": 3957.6,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 1,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": -1,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|16&area=FLTCenterColumn|0|1|ItinList|14|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=3957.6"
-          },
-          {
-            "purchaseLinkId": "Kayak|4|17",
-            "providerId": "Lufthansa",
-            "partnerSuppliedProvider": {
-              "id": "LH",
-              "displayName": "Lufthansa",
-              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/LH.png?crop=false&width=166&height=62&fallback=default2.png&_v=c879a7c1ebd87010f93c1529aeed4d5a"
-            },
-            "commerceName": "KayakFlightsMeta",
-            "currency": "USD",
-            "originalCurrency": "USD",
-            "seatAvailability": 0,
-            "taxesAndFees": 0,
-            "taxesAndFeesPerPassenger": 0,
-            "totalPrice": 11515.2,
-            "totalPricePerPassenger": 5757.6,
-            "fareBasisCodes": [],
-            "containedPurchaseLinks": [],
-            "fareBranding": {
-              "brandId": "Premium Economy Flex",
-              "carrierCode": "LH"
-            },
-            "partnerData": {},
-            "isPaid": false,
-            "fareAttributesList": [
-              {
-                "carryonAllowed": true,
-                "carryonFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "freeCheckedBagAllowance": 2,
-                "firstCheckedBagFee": 0,
-                "secondCheckedBagFee": 0,
-                "seatSelectionAllowed": true,
-                "seatSelectionFeeObj": {
-                  "feeType": "PRESENT",
-                  "feeValue": -1
-                },
-                "ticketChangeAllowed": true,
-                "ticketChangeFeeObj": {
-                  "feeType": "KNOWN",
-                  "feeValue": 0
-                },
-                "segmentIndices": [0]
-              }
-            ],
-            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=759cd02844d10c37df9a223190e68313&provider=Kayak|4|17&area=FLTCenterColumn|0|1|ItinList|14|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=5757.6"
-          }
-        ]
-      }
-    ]
-  }
+    }
 }
