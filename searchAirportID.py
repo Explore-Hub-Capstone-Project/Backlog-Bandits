@@ -9,7 +9,7 @@ def get_parent_id(query):
     url = "https://tripadvisor16.p.rapidapi.com/api/v1/flights/searchAirport"
     querystring = {"query": query}
     headers = {
-        "X-RapidAPI-Key": "RAPIDAPI_KEY",
+        "X-RapidAPI-Key": api_key,
         "X-RapidAPI-Host": "tripadvisor16.p.rapidapi.com",
     }
     try:

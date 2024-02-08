@@ -13,13 +13,18 @@ print(f"Arriving City ID: {parent_id2}, Arriving City Code: {airport_code2}")
 
 
 date = input("Enter Date (YYYY-MM-DD) : ")
-itinerary_type = input("Enter Itinerary Type (ONE_WAY / ROUND_TRIP) : ")
+# itinerary_type = input("Enter Itinerary Type (ONE_WAY / ROUND_TRIP) : ")
+itinerary_type = "ONE_WAY"
 sort_order = input("Enter Sort Order (PRICE / DURATION) : ")
 number_of_adults = input("Enter Number of Adults : ")
-number_of_seniors = input("Enter Number of Seniors : ")
+# number_of_seniors = input("Enter Number of Seniors : ")
+number_of_seniors = 0
 class_of_service = input("Enter Class (ECONOMY / PREMIUM_ECONOMY): ")
-number_of_pages = input("Enter Page Number (1) : ")
+# number_of_pages = input("Enter Page Number (1) : ")
+number_of_pages = 1
 currency_code = input("Enter Currency Code : ")
+
+print("-" * 70)
 
 
 def convert_time(time_str):
@@ -55,7 +60,7 @@ def fetch_flight_details(
     }
 
     headers = {
-        "X-RapidAPI-Key": "RAPDIAPI_KEY",
+        "X-RapidAPI-Key": api_key,
         "X-RapidAPI-Host": "tripadvisor16.p.rapidapi.com",
     }
 
@@ -63,37 +68,29 @@ def fetch_flight_details(
     flights = response.json().get("data", {}).get("flights", [])
 
     for idx, flight in enumerate(flights[:5], start=1):
-        for segment in flight["segments"]:
-            for leg in segment["legs"]:
+        print(f"Flight {idx}:")
+        if flight["segments"]:
+            segment = flight["segments"][0]
+            if segment["legs"]:
+                leg = segment["legs"][0]
                 departure_time = datetime.strptime(
                     leg["departureDateTime"], "%Y-%m-%dT%H:%M:%S%z"
                 ).strftime("%Y-%m-%d %H:%M")
                 arrival_time = datetime.strptime(
                     leg["arrivalDateTime"], "%Y-%m-%dT%H:%M:%S%z"
                 ).strftime("%Y-%m-%d %H:%M")
-                flight_details = {
-                    "S/N": idx,
-                    "Airline Name": leg["operatingCarrier"]["displayName"],
-                    "Airline Number": leg["flightNumber"],
-                    "Origin": leg["originStationCode"],
-                    "Destination": leg["destinationStationCode"],
-                    "Time of Flight": f"{departure_time} -> {arrival_time}",
-                    "Class of Flight": leg["classOfService"],
-                    "Number of Stops": (
-                        "Direct"
-                        if leg["numStops"] == 0
-                        else f"{leg['numStops']} Stop(s)"
-                    ),
-                    "Stops Location": "N/A",
-                    # "Logo URL": leg["operatingCarrier"]["logoUrl"],
-                    "Price of Flight": flight["purchaseLinks"][0]["totalPrice"],
-                    # "Purchase Link": flight["purchaseLinks"][0]["url"],
-                }
-                # print(idx, ":")
-                print(flight_details)
-                print(
-                    "-------------------------------------------------------------------"
+                print(f"Airline Name: {leg['operatingCarrier']['displayName']}")
+                print(f"Flight Number: {leg['flightNumber']}")
+                print(f"Origin: {leg['originStationCode']}")
+                print(f"Destination: {leg['destinationStationCode']}")
+                print(f"Departure -> Arrival: {departure_time} -> {arrival_time}")
+                print(f"Class of Service: {leg['classOfService']}")
+                number_of_stops = (
+                    "Direct" if leg["numStops"] == 0 else f"{leg['numStops']} Stop(s)"
                 )
+                print(f"Number of Stops: {number_of_stops}")
+                print(f"Price of Flight: {flight['purchaseLinks'][0]['totalPrice']}")
+                print("\n" + "-" * 70 + "\n")
 
 
 fetch_flight_details(
@@ -111,4 +108,4 @@ fetch_flight_details(
 
 
 def push_arrival_id():
-    return parent_id2
+    return parent_id2, date
