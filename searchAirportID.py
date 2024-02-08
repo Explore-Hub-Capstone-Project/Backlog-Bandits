@@ -1,12 +1,15 @@
 import requests
 import json
+import os
+
+api_key = os.getenv("RAPIDAPI_KEY")
 
 
 def get_parent_id(query):
     url = "https://tripadvisor16.p.rapidapi.com/api/v1/flights/searchAirport"
     querystring = {"query": query}
     headers = {
-        "X-RapidAPI-Key": "22e66d4f58msh0942688c9a3a6bbp103f7ejsn284b71172003",
+        "X-RapidAPI-Key": "RAPIDAPI_KEY",
         "X-RapidAPI-Host": "tripadvisor16.p.rapidapi.com",
     }
     try:

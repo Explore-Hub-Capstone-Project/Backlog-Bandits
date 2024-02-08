@@ -1,5 +1,8 @@
 import requests
 from datetime import datetime
+import os
+
+api_key = os.getenv("RAPIDAPI_KEY")
 
 from searchAirportID import get_airport_details
 
@@ -25,7 +28,7 @@ def convert_time(time_str):
     )
 
 
-def get_flight_details(
+def fetch_flight_details(
     airport_code1,
     airport_code2,
     date,
@@ -52,7 +55,7 @@ def get_flight_details(
     }
 
     headers = {
-        "X-RapidAPI-Key": "22e66d4f58msh0942688c9a3a6bbp103f7ejsn284b71172003",
+        "X-RapidAPI-Key": "RAPDIAPI_KEY",
         "X-RapidAPI-Host": "tripadvisor16.p.rapidapi.com",
     }
 
@@ -86,14 +89,14 @@ def get_flight_details(
                     "Price of Flight": flight["purchaseLinks"][0]["totalPrice"],
                     # "Purchase Link": flight["purchaseLinks"][0]["url"],
                 }
-                print(idx, ":")
+                # print(idx, ":")
                 print(flight_details)
                 print(
-                    "------------------------------------------------------------------------------------------------"
+                    "-------------------------------------------------------------------"
                 )
 
 
-get_flight_details(
+fetch_flight_details(
     airport_code1,
     airport_code2,
     date,
@@ -105,3 +108,7 @@ get_flight_details(
     number_of_pages,
     currency_code,
 )
+
+
+def push_arrival_id():
+    return parent_id2
