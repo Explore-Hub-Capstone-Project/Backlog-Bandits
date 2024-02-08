@@ -4,28 +4,6 @@ import os
 
 api_key = os.getenv("RAPIDAPI_KEY")
 
-from searchAirportID import get_airport_details
-
-parent_id1, parent_id2, airport_code1, airport_code2 = get_airport_details()
-
-print(f"Departing City ID: {parent_id1}, Departing City Code: {airport_code1}")
-print(f"Arriving City ID: {parent_id2}, Arriving City Code: {airport_code2}")
-
-
-date = input("Enter Date (YYYY-MM-DD) : ")
-# itinerary_type = input("Enter Itinerary Type (ONE_WAY / ROUND_TRIP) : ")
-itinerary_type = "ONE_WAY"
-sort_order = input("Enter Sort Order (PRICE / DURATION) : ")
-number_of_adults = input("Enter Number of Adults : ")
-# number_of_seniors = input("Enter Number of Seniors : ")
-number_of_seniors = 0
-class_of_service = input("Enter Class (ECONOMY / PREMIUM_ECONOMY): ")
-# number_of_pages = input("Enter Page Number (1) : ")
-number_of_pages = 1
-currency_code = input("Enter Currency Code : ")
-
-print("-" * 70)
-
 
 def convert_time(time_str):
     return datetime.strptime(time_str, "%Y-%m-%dT%H:%M:%S%z").strftime(
@@ -93,19 +71,23 @@ def fetch_flight_details(
                 print("\n" + "-" * 70 + "\n")
 
 
-fetch_flight_details(
-    airport_code1,
-    airport_code2,
-    date,
-    itinerary_type,
-    sort_order,
-    number_of_adults,
-    number_of_seniors,
-    class_of_service,
-    number_of_pages,
-    currency_code,
-)
+# fetch_flight_details(
+#     airport_code1,
+#     airport_code2,
+#     date,
+#     itinerary_type,
+#     sort_order,
+#     number_of_adults,
+#     number_of_seniors,
+#     class_of_service,
+#     number_of_pages,
+#     currency_code,
+# )
 
 
-def push_arrival_id():
-    return parent_id2, date
+# def push_arrival_id():
+#     return parent_id2
+
+
+# def push_date():
+#     return date

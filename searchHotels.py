@@ -2,18 +2,15 @@ import requests
 import os
 import json
 
-from searchFlights import push_arrival_id
+# from searchFlights import push_arrival_id, push_date
 
-parent_id2, date = push_arrival_id()
+# parent_id2 = push_arrival_id()
+# date = push_date()
 
 api_key = os.getenv("RAPIDAPI_KEY")
 
-checkInDate = date
-checkOutDate = input("Enter Checkout Date for Hotel: ")
-print("-" * 70)
 
-
-def fetch_hotels():
+def fetch_hotels(parent_id2, checkInDate, checkOutDate):
     url = "https://tripadvisor16.p.rapidapi.com/api/v1/hotels/searchHotels"
 
     querystring = {
@@ -52,6 +49,3 @@ def fetch_hotels():
             f"Check-in: {querystring['checkIn']}, Check-out: {querystring['checkOut']}"
         )
         print("\n" + "-" * 70 + "\n")
-
-
-fetch_hotels()
