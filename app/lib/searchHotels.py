@@ -32,7 +32,7 @@ def fetch_hotels(parent_id2, checkInDate, checkOutDate):
     hotels = data.get("data", {}).get("data", [])
 
     for i, hotel in enumerate(hotels[:5]):
-        print(f"Hotel {i+1}:")
+        print(f"Hotel {i + 1}:")
         print(f"Title: {hotel.get('title', 'N/A')}")
         address = f"{hotel.get('secondaryInfo', 'N/A')}"
         information = f"{hotel.get('primaryInfo', 'N/A')}"

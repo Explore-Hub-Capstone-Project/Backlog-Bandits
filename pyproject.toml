@@ -1,0 +1,49 @@
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = "API for ExploreHub- ExploreHub Backend"
+authors = ["AnittaEr <aershadi@stevens.edu>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+start = "app:main.start"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.31.0"
+fastapi = "^0.109.2"
+pydantic = "^2.6.1"
+sqlalchemy = "^2.0.25"
+uvicorn = "^0.27.0.post1"
+passlib = "^1.7.4"
+bcrypt = "^4.1.2"
+pydantic-settings = "^2.1.0"
+asyncpg = "^0.29.0"
+greenlet = "^3.0.3"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+mypy = "^1.8.0"
+types-passlib = "^1.7.7.20240106"
+types-requests = "^2.31.0.20240125"
+pre-commit = "^3.6.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+    include = '\.pyi?$'
+    exclude = '''
+    /(
+        \.git
+      | \.hg
+      | \.mypy_cache
+      | \.tox
+      | \.venv
+      | _build
+      | buck-out
+      | build
+      | dist
+    )/
+    '''

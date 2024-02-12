@@ -19,7 +19,7 @@ def get_parent_id(query):
         parent_id = data["data"][0]["details"]["parent_id"]
         airport_code = data["data"][0]["airportCode"]
         return parent_id, airport_code
-    except Exception as e:
+    except Exception:
         return None, None
 
 
