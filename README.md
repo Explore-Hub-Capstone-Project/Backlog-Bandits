@@ -13,4 +13,4 @@ Group Members:
 ## Project Folders:
 
 - [Backend](https://github.com/Explore-Hub-Capstone-Project/ExploreHub-Backend)
-- [Frontend] (https://github.com/Explore-Hub-Capstone-Project/ExploreHub-Frontend)
+- [Frontend](https://github.com/Explore-Hub-Capstone-Project/ExploreHub-Frontend)
