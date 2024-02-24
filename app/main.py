@@ -1,8 +1,6 @@
 from fastapi import FastAPI
 
 # from app.db.database import engine
-from sqlalchemy.ext.asyncio import AsyncEngine
-from contextlib import asynccontextmanager
 from app.router import user
 import uvicorn
 from app.config import settings

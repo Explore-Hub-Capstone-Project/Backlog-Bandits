@@ -1,0 +1,2811 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1707423078529,
+    "data": {
+        "sortDisclaimer": "2,000 of 2,000+ places are available, sorted by <span class=\"underline\">best value</span>",
+        "data": [
+            {
+                "id": "7621418",
+                "title": "JW Marriott Mumbai Sahar",
+                "primaryInfo": null,
+                "secondaryInfo": "Marol",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "5,233",
+                    "rating": 4.5
+                },
+                "isSponsored": true,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$222",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ee/2d/9d/jw-marriott-hotel-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 663,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/65/0b/7e/jw-marriott-hotel-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 464,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/65/0b/52/jw-marriott-hotel-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1920,
+                            "maxWidth": 2880,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a7/e5/29/jw-marriott-mumbai-sahar.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=66696423&geo=7621418&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995261&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=287334673&managed=false&capped=false&gosox=AJKJfvnE5pxDgDV5Ix3aPip0ZF-jIf7Cjs_hBQUkYSOHJsAVpdP_Is6BDMTH7Fr5G61Rpj85n1Yl7dWMntFG-2L8MwH7fylj4lzb4_mE4F3NgaXucKu_QQJ8RYIIjDcLjAc8gE6_V5a0hM73qV3tkmxUqdrto4aRv49YCqmrrw9pLlh6X6m36wQzz-dXS_HOjlX4HaJbXrOXO2iQAWcBMRjoIaEFSLClEj21Z0-XfPlmsoJwJLdRF6M3_MJALcMd&priceShown=222&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=1700&rq=P&rate=188.3300&fees=33.9000&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_4561b858a55285e296a28f2a5bb563ab&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=a55f0fc4-1c60-485a-877a-4c2a28f8052a&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=16cbb9a745fe515c9d282d490bc050392&ik=84248a41e3564a87bd6bf8f61da98a93&aok=2a4cb7d5a4d9492f8877920aa951bd09&tp=APS-Hotels&pageLocId=304554&area=Spons%7CSpons_Meta_Pref",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$222",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "1135621",
+                "title": "1. TRIDENT, BANDRA KURLA",
+                "primaryInfo": null,
+                "secondaryInfo": "Bandra Kurla Complex",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "6,479",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$256",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 13519,
+                            "maxWidth": 7845,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/f5/74/lobby-view.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1005,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/85/5a/c6/club-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 411,
+                            "maxWidth": 550,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/57/90/68/premier-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3456,
+                            "maxWidth": 5184,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/07/16/f7/o22-the-main-restaurant.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=42813047&geo=1135621&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=11&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=ZV9uu2BqqkEaNE5arjHisOG0Ln7cM_Y9M-t3UFB-kwDlPQaH7G-erKfRr4JAiVDzVZUOnOITjJujd04bciQzNXC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQUycRWPsP9EQyc07H-rWFLpeYXuCr0tmCQ1f-CmVQayvu-JYM_4v_BkNISHS2i19Q4TrhNKBuFunuuTV4c30pZhLfQ-Dimsf4qle16GYQIsXVMDtGjb1ClmfFMllEFhiP8wg2en1drozsggW9SbBKM79NnQSN-Tth0DVIXUwyZiY&priceShown=256&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=4300&rq=P&rate=216.9500&fees=39.0500&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_4e81d526540c1589ee5c1abbc0e498bc&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=da9fec34-067c-4aaf-92e2-554c7811307e&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=18afe8718b5b51bdd06bce22b4991bf33&ik=84248a41e3564a87bd6bf8f61da98a93&aok=767b1bfd73994fa0816113ed3cb89c53&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$256",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "304604",
+                "title": "2. Taj Lands End, Mumbai",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Bandra West",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "7,957",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$313",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2550,
+                            "maxWidth": 7197,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/2e/b3/1c/hlttaj-lands-end-exterior.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2544,
+                            "maxWidth": 4000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/64/24/c0/luxury-sea-view-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1666,
+                            "maxWidth": 2500,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/64/12/ff/house-of-nomad.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/64/12/a0/atrium-bar-lounge.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=34389393&geo=304604&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=10&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=138oFb-_XDwqFEIp_cuFqOG0Ln7cM_Y9M-t3UFB-kwCMyi011rQaXTCOG-d7VySupL-7AhFVNfGdcwxybd1aDnC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQjbw1hgLDoFENZnbBlQSu7_b2ORPgX_M9pH4VTGH4ce9Xgj__RakG-A5f0sioQwLMfEgWdB3ZmD-Bg7lP-u0SCxM5S1Nwfr0K2boj-lyG1e9Vlnm3bpIifiIcchC2x5uUDuVk0ZiIxUPDkX0s1GquOUxsswHL8-RBAb104aNEZ0o&priceShown=313&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=5300&rq=P&rate=265.1700&fees=47.7300&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_caf29dce1683188a3ae4b981843a3a6&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=92e8050c-e8ad-4968-8aa9-bf9e3dad704c&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=168fa3eb9d1ec9e333bf6d33f19b32ffc&ik=84248a41e3564a87bd6bf8f61da98a93&aok=37627c85630040a1a55d509835dd9386&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$313",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "299754",
+                "title": "3. Jw Marriott Mumbai Juhu",
+                "primaryInfo": null,
+                "secondaryInfo": "Juhu",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "5,138",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$338",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1500,
+                            "maxWidth": 1909,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/1e/e3/50/jw-marriott-hotel-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 653,
+                            "maxWidth": 1344,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/b4/1f/db/20180410-154801-largejpg.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 653,
+                            "maxWidth": 1344,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/b4/1f/da/20180410-184625-largejpg.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2667,
+                            "maxWidth": 4000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/c3/25/b2/infinity-pool.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32439636&geo=299754&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=11&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=JksD2oo2ptsMCvV-TzCrfuG0Ln7cM_Y9M-t3UFB-kwBYSAhXE3B-9Gpf4kqeIk_U5r__V-TsO6VMyhD2WJTMd3C4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQCsbZTbTgg5bHMfph2lClIVTT1KrUMLuJVhbhSFbLzGVCacrx2Wx82ROkhEo_SKzt-r78X6KX8rltPS5fyBTJdRLfQ-Dimsf4qle16GYQIsXVMDtGjb1ClmfFMllEFhiP8wg2en1drozsggW9SbBKM79NnQSN-Tth0DVIXUwyZiY&priceShown=338&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2900&rq=P&rate=286.2600&fees=51.5300&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_5bd1621d48127cb1968d5ef10407775b&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=02154a73-3c94-4965-be2c-9e35cadc5834&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=18b28ec1f6863bb5646bb05535825033f&ik=84248a41e3564a87bd6bf8f61da98a93&aok=59eed39de8104de5813939cb65c8e20d&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$338",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "299124",
+                "title": "4. The Lalit Mumbai",
+                "primaryInfo": null,
+                "secondaryInfo": "Marol",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "6,492",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$199",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 731,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/dd/4a/0f/bedroom.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 736,
+                            "maxWidth": 1301,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b3/96/b5/the-lalit-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1451,
+                            "maxWidth": 2400,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a6/fb/db/the-lalit-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1467,
+                            "maxWidth": 2400,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a6/fb/93/the-lalit-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32455001&geo=299124&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=8&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=jUu4YuuepB7kyPcab2MOjn5jRzR6gPJLtMrG6FEcVIHdmPzNN_kXqfPawA320OfmwtWktK5pujwN_iWzgvQp_kWOdhq4lIziGU5fzJMlODc8_fe7brX1ppsEbJ-mpl0E9sEhoqMdoT6Nenj1bQrc7MJTP3hln7zaYGVK9gA1qdYY74f7kTH7iolRUmo9V2f7y6RBm5RFgoxZ4dYe8C0_ywZpnXltMDT6gjub9aznkbI78XYOHrqd9PJpc2ZsQjfMFZFAOpl6_zarE1AbKobfPw&priceShown=199&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=3500&rq=P&rate=168.7400&fees=30.3700&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_7fd9b3b5d97243f1589716501bf428f7&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=af35d63e-384c-43fa-947e-a9bc24c21e35&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=140feef894f05bbe1f4783425f1be7912&ik=84248a41e3564a87bd6bf8f61da98a93&aok=9c1b98cc535a487a9357cb05b90539c6&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$199",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "3774517",
+                "title": "5. Goldfinch Hotel Mumbai",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Western Suburbs",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "2,073",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Agoda.com",
+                "priceForDisplay": "$83",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1004,
+                            "maxWidth": 1004,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/02/e3/1c/goldfinch-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1004,
+                            "maxWidth": 1004,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/01/ac/03/we-are-proud-to-announce.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1004,
+                            "maxWidth": 1004,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/01/ac/01/we-are-proud-to-announce.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1110,
+                            "maxWidth": 1651,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/01/ac/27/goldfinch-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=Agoda&src=47091335&geo=3774517&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=10&silo=5094&bucket=907715&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=NK2J6mh7DXqiiM0YeQ-bbxUP61tqrue5e1IfdX7-xQTD6kl65yfT77E-AJQRKN1JsnvbS5qNOo0buydSRUjc-rOvMf17x3j40mQkDBDtnpbgu64WBf-mbmhtKS8oJ58lOSjVIGwsnoZhCi_sNeKPypSGuf9Or48st9oTDSR4I30Vc1QhsUdfhITmH-uMOMSVORjgiEk0qzZXsFjJ36CrtgkGkcFbqW4KtiZ4bCjOPwCpbd5N2z5IiMU0gC996WfcMW6-vyFoT4Wa5Q1sME4cI3Ujv2PryG72EsS-9LmIXy4&priceShown=83&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=200&rq=P&rate=74.2300&fees=8.9100&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_44c5d8eaef18091090c98b7aae9fff65&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=a581a3c9-c390-46bc-8bd0-3d7e8e7aeb8e&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=165d1c54e7109b1b2b3b6f9334a906d29&ik=84248a41e3564a87bd6bf8f61da98a93&aok=c911ae02e0e0439cb7f36f3ffbc3d60b&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Agoda.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$83",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "25249233",
+                "title": "Novotel Mumbai International Airport",
+                "primaryInfo": null,
+                "secondaryInfo": null,
+                "badge": {},
+                "bubbleRating": {
+                    "count": "737",
+                    "rating": 5
+                },
+                "isSponsored": true,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$150",
+                "strikethroughPrice": null,
+                "priceDetails": "Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2469,
+                            "maxWidth": 3700,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/c8/17/76/airport-view-room-on.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2469,
+                            "maxWidth": 3700,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/c8/18/27/hotel-facade.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2469,
+                            "maxWidth": 3700,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/c8/1a/4f/food-exchange-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2469,
+                            "maxWidth": 3700,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/c8/17/4e/4-fixtures-bathroom.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=239804135&geo=25249233&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995261&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=287334673&managed=false&capped=false&gosox=IF3euOIFl_Q0zK2Lqw9HfHp3nNV5SebNkosu6rZges-EimAJduLtk02Nz4KYx0kBG61Rpj85n1Yl7dWMntFG-2L8MwH7fylj4lzb4_mE4F0RoeyPTybo_Y5AaTnamCv2qFJa2OehjhCAi5IpTTWkyHhc5FntluqZfSZHNyPaURDY9Q_xcjaiOGZr8oRj3zRvYp8DO5MYcg6HHu7fbXzNIyDSpJNSep1-hJlZqcV7G43XkNgS0bLn1D7Wb0CdEcCe&priceShown=150&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=1500&rq=P&rate=127.4500&fees=22.9400&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_6ae5f55c8d2a94c06adb764c76f19cc3&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=f0db28cb-cfde-43e9-bb16-a0f2239856ec&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=126d307d330516f8080b743c48d7e79d4&ik=84248a41e3564a87bd6bf8f61da98a93&aok=4422b0c764bf43c28fc35adcbb5767f1&tp=APS-Hotels&pageLocId=304554&area=Spons%7CSpons_Meta_Pref",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$150",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "472105",
+                "title": "6. Trident Hotel",
+                "primaryInfo": null,
+                "secondaryInfo": "South Mumbai",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "6,495",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$295",
+                "strikethroughPrice": "$459",
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 7412,
+                            "maxWidth": 14400,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/ef/7c/lobby.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/2b/79/lobby--v17173117.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/2b/77/frangipani--v17173153.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/2b/66/frangipani--v17173174.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=43561125&geo=472105&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=9&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=8XLvtvrkQldKbVaRer30c-G0Ln7cM_Y9M-t3UFB-kwBbkoEf24gQzu6AjCGH0Kfor48M4UoOW3lPcSkVyXxODEQCYj34en-Nvk0c6yxtDicumXnWwu915X8Tjv9YUVflayQ2v0LEGULxUXDZW6nD-fu_il0-A-vEmZ6FVbTmjdm8yK70Ikb8eOonEqCgD88e4TrhNKBuFunuuTV4c30pZhLfQ-Dimsf4qle16GYQIsXVMDtGjb1ClmfFMllEFhiP8wg2en1drozsggW9SbBKM79NnQSN-Tth0DVIXUwyZiY&priceShown=295&pm=AIWE&hac=AVAILABLE&mbl=MEET&mbldelta=0&rq=P&rate=250.1000&fees=45.0200&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_5d322d9091e523999198af049fe41574&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=0498dc60-abf0-426f-afa9-c40e7c072914&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=16bf6ee70a8fa36f28097e090d9ad1b6b&ik=84248a41e3564a87bd6bf8f61da98a93&aok=f501ac43d99e4101b28e604cc31fba1e&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$295",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": {
+                        "text": "$459"
+                    },
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "9776549",
+                "title": "7. Taj Santacruz",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Vile Parle East",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "3,415",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$226",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 5304,
+                            "maxWidth": 7952,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/08/e9/12/luxury-room-city-view.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1250,
+                            "maxWidth": 1529,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/37/4a/dc/outdoor-swimming-pool.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1250,
+                            "maxWidth": 1801,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/37/4a/c6/junior-suite.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1250,
+                            "maxWidth": 1800,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/8b/ff/86/luxury-tranquility-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=76861110&geo=9776549&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=11&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=ZV9uu2BqqkEaNE5arjHisOG0Ln7cM_Y9M-t3UFB-kwDlPQaH7G-erKfRr4JAiVDz6E8TLasJWi6bYIuhUy1ZG3C4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQCDtmN9nqx0n9FGwG4U00WrcEkpuF24hjTKFmaVvPaHvxL1KGXVbSUrX2iJwAFPfIHdNYiPzLoW4xCDrRjgQsrBLfQ-Dimsf4qle16GYQIsXVMDtGjb1ClmfFMllEFhiP8wg2en1drozsggW9SbBKM79NnQSN-Tth0DVIXUwyZiY&priceShown=226&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2100&rq=P&rate=191.1900&fees=34.4200&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_382e0865517984cecdefd42dff6b13d9&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=924fbc40-5a52-404a-a9d1-f5c6ece6da0b&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=15c1826f1618a30bad5a870a24873fff9&ik=84248a41e3564a87bd6bf8f61da98a93&aok=492f3bf6d89a4541823bc46b7c7be17b&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$226",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "479536",
+                "title": "8. The Resort",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Madh",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "2,171",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$142",
+                "strikethroughPrice": null,
+                "priceDetails": "Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 936,
+                            "maxWidth": 1404,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/3d/42/2d/the-resort.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 934,
+                            "maxWidth": 1402,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/3d/42/44/the-resort.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c2/c2/7c/the-resort.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c2/c1/c9/the-resort.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=44201248&geo=479536&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=9&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=5WDz3OPfXKIAWQjiKgWsQKF9-4M62fswbeDbuBL5c_HM_zzQy-N1fTCmyTQBHNsjr6wdq9L2Px51SlkqlVoD8RutUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBdCfhEHEb4jBlXjXje3kFmbsqzGkon_FHFl7ajLrckouEKXVx4SmDy67deoxvmvUwMCWLytG5fTqxPB1MMFzeEU-eT8zDvxxe0J5wUhwRTSQUg0qSTUnqdfoSZWanFexuN15DYEtGy59Q-1m9AnRHAng&priceShown=142&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=900&rq=P&rate=120.5200&fees=21.6900&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_6c269bf06299290a5e3dd9ced8418358&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=682ae28a-4b88-4a42-b9a0-24f59fefa41a&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1a5b9a8d93326a86b4df5821250ce81ea&ik=84248a41e3564a87bd6bf8f61da98a93&aok=b806f2eaa5804d17b28caeace113da89&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$142",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "17630941",
+                "title": "9. Lemon Tree Premier, Mumbai International Airport",
+                "primaryInfo": null,
+                "secondaryInfo": "Marol",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "1,378",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Agoda.com",
+                "priceForDisplay": "$134",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 683,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f1/a8/dd/lemon-tree-premier-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 682,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/33/0d/27/lemon-tree-premier-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 682,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/33/0d/2f/lemon-tree-premier-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 683,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/33/0d/2e/lemon-tree-premier-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=Agoda&src=152299452&geo=17630941&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=11&silo=5094&bucket=907715&nrank=3&crank=2&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=IbpnqmTJmj4AgJryXVgYqBUP61tqrue5e1IfdX7-xQTD6kl65yfT77E-AJQRKN1JXDngHW3g2fPvmH88oPh0qLOvMf17x3j40mQkDBDtnpbgu64WBf-mbmhtKS8oJ58lOSjVIGwsnoZhCi_sNeKPyuRcUiuE2IleFrO-836Un41I_LRltPHDiMipStPlnHIOSm2IsiJCR65oLumQsa6BEq8V3gHu0yzHBj562QGdoqnFmY_jvIKzD8KPHVZr-bzkV5TZldSdNBdUSEl35bu7XoQZNJYvftcMNr9qO9AIF9Y&priceShown=134&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=1900&rq=P&rate=103.4000&fees=30.8100&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_3b2f23fbef0b497f3b39faaaf3deb89d&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=d24c4ca2-2b7f-4a7d-9e31-1e89e01ba5a0&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=137904155908565125e86d600c9ada738&ik=84248a41e3564a87bd6bf8f61da98a93&aok=461ee1c17a6f4c6ab248760dc5b0c8b2&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Agoda.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$134",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "1391624",
+                "title": "10. Novotel Mumbai Juhu Beach",
+                "primaryInfo": null,
+                "secondaryInfo": "Juhu",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "3,884",
+                    "rating": 4
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$195",
+                "strikethroughPrice": null,
+                "priceDetails": "Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 768,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d3/b2/4f/exterior-view.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3024,
+                            "maxWidth": 4032,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d8/45/f9/novotel-mumbai-juhu-beach.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1536,
+                            "maxWidth": 2048,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/37/00/e3/pool-area.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1125,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/c7/f1/33/novotel-mumbai-juhu-beach.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32457705&geo=1391624&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=9&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=nfuWIh_bPnPJ7wTrvMCYMuG0Ln7cM_Y9M-t3UFB-kwA8EqkHVMY2SgFoSVemAKqZNwbKEINO2JudyFIhxJ2G8HC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQXPhsMjq4KRbNapYPv3fiTC2atmBmhaI3ZOUnvGZYGxlsXTymsaQanmPKid_fcQJjgVQM3TWylqMjukGaiWSO4BLfQ-Dimsf4qle16GYQIsXVMDtGjb1ClmfFMllEFhiP8wg2en1drozsggW9SbBKM79NnQSN-Tth0DVIXUwyZiY&priceShown=195&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=1300&rq=P&rate=165.5500&fees=29.8000&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_1ff763d94fccb68abf1d9e3c4a1f3950&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=931cece5-8c7e-4c95-b028-ec4f48d086ee&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=14223d8b98660dd77bf496cbdb8bdcb05&ik=84248a41e3564a87bd6bf8f61da98a93&aok=edbc77d0787c40b7974f3453db93759e&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$195",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "503409",
+                "title": "ITC Grand Central, Mumbai - a Luxury Collection Hotel",
+                "primaryInfo": null,
+                "secondaryInfo": "South Mumbai",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "5,250",
+                    "rating": 5
+                },
+                "isSponsored": true,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$251",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 871,
+                            "maxWidth": 1500,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/24/3e/74/itc-grand-central.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 589,
+                            "maxWidth": 1500,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/24/4b/0e/itc-grand-central.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 621,
+                            "maxWidth": 1500,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/24/3e/68/itc-grand-central.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 651,
+                            "maxWidth": 1500,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/24/3e/69/itc-grand-central.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=69140172&geo=503409&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995261&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=287334673&managed=false&capped=false&gosox=J-O2X3U_zr9bnKqvSf-GU4x7-y1L3tG4tzhJSWHYBOCgK0rWuO3I0G2V0GC3HYifG61Rpj85n1Yl7dWMntFG-2L8MwH7fylj4lzb4_mE4F2g4eBxga98af846HawRVjQIkFpd_r6DZUlIw9EQSaF4Vadv4Jly39FMrhmW4KpnWWwNSfmzSD1KmZB1iscwkqUhmT95cNonNpihZjlhg2EtiDSpJNSep1-hJlZqcV7G43XkNgS0bLn1D7Wb0CdEcCe&priceShown=251&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=3100&rq=P&rate=212.4300&fees=38.2400&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_235bae445b7b11f66760659e200268d7&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=855ad2bc-ad5e-4264-bccc-5b28eabd8efc&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=196e5b167d4dd19e6f62339e843d435a6&ik=84248a41e3564a87bd6bf8f61da98a93&aok=28b5d20b1c1a4c8c8c40883018acc301&tp=APS-Hotels&pageLocId=304554&area=Spons%7CSpons_Meta_Pref",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$251",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "7621418",
+                "title": "11. JW Marriott Mumbai Sahar",
+                "primaryInfo": null,
+                "secondaryInfo": "Marol",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "5,233",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$222",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ee/2d/9d/jw-marriott-hotel-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 663,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/65/0b/7e/jw-marriott-hotel-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 464,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/65/0b/52/jw-marriott-hotel-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1920,
+                            "maxWidth": 2880,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a7/e5/29/jw-marriott-mumbai-sahar.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=66696423&geo=7621418&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=11&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=wsagyvYVAdzW0LtnafJAjuG0Ln7cM_Y9M-t3UFB-kwBwe1t2pMijq7RVbOmeS9Eu4CSSbOf6gVbQfrIcz_9ZKHC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQv_9Kqtf3nBCPiMIxqLlBQPIF0dn0mm3exPyiP1Xioqf-b7MTaO9sG54bdEiMIhAdagPWJdIkkTSfhIhjqpHunBLfQ-Dimsf4qle16GYQIsXVMDtGjb1ClmfFMllEFhiP8wg2en1drozsggW9SbBKM79NnQSN-Tth0DVIXUwyZiY&priceShown=222&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=1700&rq=P&rate=188.3300&fees=33.9000&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_4561b858a55285e296a28f2a5bb563ab&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=5ac52d85-fceb-43e0-ad35-ca7f951466a3&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=16e58e7c7b18109782bf4e0df835c9340&ik=84248a41e3564a87bd6bf8f61da98a93&aok=cee722d8ad1844358ec0ead94bf82f64&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$222",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "678272",
+                "title": "12. Hotel Sahara Star-Mumbai Airport",
+                "primaryInfo": null,
+                "secondaryInfo": "Vile Parle East",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "6,152",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$250",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2592,
+                            "maxWidth": 3888,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/db/27/business-center-reception.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 768,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a9/7a/c9/aerial-view.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 519,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b3/f8/2b/sahara-star-hotel.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 683,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/b3/f8/0f/sahara-star-hotel.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32489293&geo=678272&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=11&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=BFEEpJ3dXN8QxkoHHOXv-uG0Ln7cM_Y9M-t3UFB-kwA4vccLOMoPLbv_QdhaS06M1fZTgZDwhLid5_RIkUuVoHC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQfqpz7JfTM3Jn19Wg6r_Sj2IS4Uo2jYtFjFxwqMOn71LzgmnH1gXvpQm1u9JYtTZUnOlF20BRKc51o742eRMp8xvaT3sT6G75NMeGh-NyJz7Z_uTFytrD0qPyLdpxOMnUm7A08-F2w4asmvNudo1pMyL-qlR2VVIusPyj-S87vAs&priceShown=250&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=9400&rq=P&rate=212.1300&fees=38.1800&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_6dbcaea8a87c33281034651df83a1351&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=7a3c9e43-0adb-4473-971a-47f4fdff2ab0&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1080a73b85e255fb0e1d4be854aa6791e&ik=84248a41e3564a87bd6bf8f61da98a93&aok=28c000e3fd4c49bf862e6065a28baa2b&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$250",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "307105",
+                "title": "13. The Orchid Mumbai Vile Parle",
+                "primaryInfo": "All-inclusive",
+                "secondaryInfo": "Vile Parle East",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "5,763",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": "18% LESS THAN USUAL",
+                "provider": "Booking.com",
+                "priceForDisplay": "$135",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1350,
+                            "maxWidth": 3000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/08/00/cb/main-entance.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 4291,
+                            "maxWidth": 6436,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d5/48/93/the-orchid-mumbai-vile.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3930,
+                            "maxWidth": 5060,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d5/4b/3c/the-orchid-mumbai-vile.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2592,
+                            "maxWidth": 4608,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d5/4d/e1/the-orchid-mumbai-vile.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=50967297&geo=307105&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=10&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=JksD2oo2ptsMCvV-TzCrfuG0Ln7cM_Y9M-t3UFB-kwBYSAhXE3B-9Gpf4kqeIk_UuUFsUbpyIpI3W3xZmxVJuXC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQdbJeP_i8wXyxNS-SrCe_AUVycRbLyfvi9KRBM9RO7D8O-YkH4IyxazhD74n2QRQ74TrhNKBuFunuuTV4c30pZhLfQ-Dimsf4qle16GYQIsXVMDtGjb1ClmfFMllEFhiP8wg2en1drozsggW9SbBKM79NnQSN-Tth0DVIXUwyZiY&priceShown=135&pm=AIWE&hac=AVAILABLE&mbl=MEET&mbldelta=0&rq=ML&rate=114.4900&fees=20.6100&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_42438532439fcab2a5b137830986a11c&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=13c6e24b-8db5-4ee3-840e-db6574731a98&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1ab3a1d4b6188fdaa1ea4fd3d26dd7b61&ik=84248a41e3564a87bd6bf8f61da98a93&aok=5b5cecc99a2a43c7ad1c0febd49dd295&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$135",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "1822388",
+                "title": "14. Svenska Design Hotel, Mumbai",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Western Suburbs",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "1,057",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$173",
+                "strikethroughPrice": null,
+                "priceDetails": "Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3564,
+                            "maxWidth": 2301,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/08/57/da/svenska-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9f/81/96/svenska-design-hotel.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 683,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9f/81/82/svenska-design-hotel.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9f/81/a3/svenska-design-hotel.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=39265128&geo=1822388&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=9&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=2Mt935wAF-vgJHBunft3VqF9-4M62fswbeDbuBL5c_GR6syohN9G7GFa2lGScbckBMCQ9DsRpMKjZavaGSElHButUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBdjfQOZ_QuNx_bp2pUZpEkdSzGciUv6qjfXz7I3l3yiC7OpbvK0XPmafxGXG4bTEPkmT48400CjuKxackAFjm5YILDlLIXonGN3650B9NL9vaCiC19Ttq3fn15LjfpZ3nP1WQCCyqNKW7oDugw7MNWlw&priceShown=173&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=4100&rq=P&rate=146.7300&fees=26.4100&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_137d06f4e3bdfeafbefe466f643735be&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=00f2c8b1-a28a-4352-bac9-d48dda1dda6c&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1264f08b394360dff50d4622f2832f6af&ik=84248a41e3564a87bd6bf8f61da98a93&aok=38f175087bba47fb843c466f06b7108c&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$173",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "308382",
+                "title": "15. Hotel Sea Princess",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Juhu",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "1,218",
+                    "rating": 3.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Agoda.com",
+                "priceForDisplay": "$142",
+                "strikethroughPrice": "$160",
+                "priceDetails": null,
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 996,
+                            "maxWidth": 1500,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3a/0f/bb/hotel-sea-princess.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1500,
+                            "maxWidth": 1200,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3a/0f/a9/hotel-sea-princess.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 739,
+                            "maxWidth": 1200,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3a/0f/76/hotel-sea-princess.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1330,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/4c/e5/b8/hotel-sea-princess.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=Agoda&src=33216469&geo=308382&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=10&silo=5094&bucket=907715&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=Gd64uSM4ZldaS_yXdn4BWRUP61tqrue5e1IfdX7-xQTD6kl65yfT77E-AJQRKN1JdNTG4ySxRfvldAP0XbgGKrOvMf17x3j40mQkDBDtnpbgu64WBf-mbmhtKS8oJ58lOSjVIGwsnoZhCi_sNeKPyrNKmu23v9Mgmq73NC8qj5TQFaZCzsAgj7ttf3Hm_loM8C7VLA5yESAppnhC8zb3_gkGkcFbqW4KtiZ4bCjOPwCpbd5N2z5IiMU0gC996WfcMW6-vyFoT4Wa5Q1sME4cI3Ujv2PryG72EsS-9LmIXy4&priceShown=142&pm=AIWE&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=120.3500&fees=21.6600&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_2b58a3f8fb6837319c715c4bed0b8a78&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=1175020e-1389-4189-8b2e-529e25f0bd19&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=15887b1ec4a149ff04434f5e41661fb18&ik=84248a41e3564a87bd6bf8f61da98a93&aok=ebcd814b4f4f4c10a9c634ab794fa0c6&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Agoda.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$142",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": {
+                        "text": "$160"
+                    },
+                    "pricingPeriod": null,
+                    "details": null,
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "472105",
+                "title": "Trident Hotel",
+                "primaryInfo": null,
+                "secondaryInfo": "South Mumbai",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "6,495",
+                    "rating": 4.5
+                },
+                "isSponsored": true,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$295",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 7412,
+                            "maxWidth": 14400,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/ef/7c/lobby.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/2b/79/lobby--v17173117.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/2b/77/frangipani--v17173153.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/20/2b/66/frangipani--v17173174.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=43561125&geo=472105&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995261&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=287334673&managed=false&capped=false&gosox=nGl1oyLpxC8_yipdQKcsp-peSEqUAq0Wuag4vIAxEKEeZUVLJSCwtbbEBS6iwP9MG61Rpj85n1Yl7dWMntFG-2L8MwH7fylj4lzb4_mE4F0QTQMLFzB16Bc5-L-RjZR5bztOketM7YzTNfcDNvwtlrYig3-_0_n-Qjl7pznLkk-32624t2DMvipSt9sufS-FqFmaQyvU5p8MRN4YGGhWyxjoIaEFSLClEj21Z0-XfPlmsoJwJLdRF6M3_MJALcMd&priceShown=295&pm=AIWE&hac=AVAILABLE&mbl=MEET&mbldelta=0&rq=P&rate=250.1000&fees=45.0200&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_5d322d9091e523999198af049fe41574&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=d1e7e5d6-d06d-44f2-a3b5-e85a44a7347d&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=10ddcb59304fda7a557064a24f3490781&ik=84248a41e3564a87bd6bf8f61da98a93&aok=8d5e014df8314bf791b60375a295746d&tp=APS-Hotels&pageLocId=304554&area=Spons%7CSpons_Meta_Pref",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$295",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "12400208",
+                "title": "16. Ginger Mumbai, Andheri East",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Andheri East",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "883",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$91",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a3/0d/4f/superior-room-twin.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a3/0d/c9/reception.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a3/0e/22/meeting-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1333,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a3/0d/f7/fitness-center.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=115346219&geo=12400208&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=11&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=cgAMKQ207G0NznWErg5MV6F9-4M62fswbeDbuBL5c_EINUboNkKqDTRFKXU0HywiK0NsAcl8OR84Jdu4A7_-0RutUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBdu9SMVXxIS6f-oKus_5LBCE1-dXvqV9ei9VT7KG25kvnIHreEBq-D-yEK-MMzIkelwbE7s1-VxiSsVUA-Ae0Rs4LDlLIXonGN3650B9NL9vaCiC19Ttq3fn15LjfpZ3nP1WQCCyqNKW7oDugw7MNWlw&priceShown=91&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=900&rq=P&rate=81.3500&fees=9.7600&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_5a561b176e310724c72edd52e928cb13&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=66801286-be90-4b80-abbb-39fb92fa5ec2&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=18cbb11768a96d3aa5d7b060e16ca8d6c&ik=84248a41e3564a87bd6bf8f61da98a93&aok=18a154d8469140d58dea380f06fc5906&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$91",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "654536",
+                "title": "17. Juhu Residency Boutique Hotel",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Juhu",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "150",
+                    "rating": 4
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$36",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1040,
+                            "maxWidth": 780,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/be/cb/4d/img-20180404-133745-largejpg.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3888,
+                            "maxWidth": 2592,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/da/bc/cc/the-juhu-residency-boutique.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 412,
+                            "maxWidth": 550,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/55/62/28/lovely-ganesha-shrine.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 412,
+                            "maxWidth": 550,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/55/62/29/nearby-juhu-beach-with.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=237123614&geo=654536&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=0Ri-GJ1WItXHc3Mwdf9CQKF9-4M62fswbeDbuBL5c_FFz5XG2O0nXDdorfVFjiR--sMLQCSxCDhlFnYZhzop_hutUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBdb_neIfm5qHJl2IboMmkkqmGO_HXipFdtFQJJn7Kem_7-62-4jWhJt7S-2dQDtrc9B72hPJf5jaDDlt0m_o9sbX-cos8KWbPvDrdyMImnAQbug2uA0ALoLne7Bbtzlo-KAEanTBbzd_gKZ5gmnb_xOQ&priceShown=36&pm=AIWE&hac=AVAILABLE&mbl=MEET&mbldelta=0&rq=P&rate=32.5400&fees=3.9100&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_4d266365a9125adb2fcb2cbc9c0cbfbb&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=744c449b-d71f-439c-bfcf-c367c9bf258f&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=10770387bb7e2c5db94828a0e5e9158cc&ik=84248a41e3564a87bd6bf8f61da98a93&aok=be8f5b72acde4411ab5b474200bbe998&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$36",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "583348",
+                "title": "18. T24 Retro",
+                "primaryInfo": null,
+                "secondaryInfo": "Vile Parle East",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "104",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$101",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2592,
+                            "maxWidth": 4608,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/ea/a9/d4/t24-retro.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1960,
+                            "maxWidth": 4032,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/17/1f/4f/family-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1960,
+                            "maxWidth": 4032,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a0/83/5b/deluxe-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1960,
+                            "maxWidth": 4032,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/17/1c/ac/t24-retro.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=46080313&geo=583348&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=9&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=sEMO0czYb7Onh-LUg22fEqF9-4M62fswbeDbuBL5c_F6d5zVeUnmzZKLLuq2YHrPFNVajaBmsGiONnhpn7UONxutUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBd4MgFuD9XATrL7S2gJJHX6yYh1xyVgfFmHHBLW8wyWH_MDzvP8FBbB1t_5MOJLlMT-Qk-pVbkwdOXV14AOBKXCoLDlLIXonGN3650B9NL9vaCiC19Ttq3fn15LjfpZ3nP1WQCCyqNKW7oDugw7MNWlw&priceShown=101&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2100&rq=P&rate=90.3900&fees=10.8500&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_4f6a05998702ee53dfdd8806c1b6cb9a&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=ea0c0437-dbfc-4576-aed3-2cab765af50f&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1d63258acb563beb3b6418f79e5122a9b&ik=84248a41e3564a87bd6bf8f61da98a93&aok=d477e8d89f9e4e188e8cfcdd524725d2&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$101",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "24804320",
+                "title": "19. Hotel BKC Crown - Near Trade Centre, Visa Consulate",
+                "primaryInfo": null,
+                "secondaryInfo": null,
+                "badge": {},
+                "bubbleRating": {
+                    "count": "10",
+                    "rating": 5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$42",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1200,
+                            "maxWidth": 1600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/1b/fd/38/hotel-bkc-crown-near.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1600,
+                            "maxWidth": 1200,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/7d/68/hotel-bkc-crown-near.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1600,
+                            "maxWidth": 1200,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/7c/f3/hotel-bkc-crown-near.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1600,
+                            "maxWidth": 1200,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/5b/7c/77/hotel-bkc-crown-near.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=237466960&geo=24804320&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=9&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=Lj3wDtAZqPRRUGQ1blX3qqF9-4M62fswbeDbuBL5c_HqXkhKlAKtFrmoOLyAMRChecrJAtLRLh00autbE0Eg8xutUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBdMBSsYKmx7293VEmYwgnCgdbLizuyceT7YyR2ynZpxOLvCPhvOkP3QSZnTQ9m-xfy6davjbsp_7iZNIEs94GJoOeT8zDvxxe0J5wUhwRTSQUg0qSTUnqdfoSZWanFexuN15DYEtGy59Q-1m9AnRHAng&priceShown=42&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=1100&rq=P&rate=37.1200&fees=4.4600&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_16671b2ee90ce0f199ba3ea2ab8622a2&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=e5b08d55-b1cf-443b-8987-902e36ba3cec&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1576d213866806b799e89959c41929d73&ik=84248a41e3564a87bd6bf8f61da98a93&aok=1e0c64997d1641b8bcefaa222da76a8e&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$42",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "14180046",
+                "title": "20. Radisson Hotel Mumbai Andheri MIDC",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Western Suburbs",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "885",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$208",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1023,
+                            "maxWidth": 682,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/df/e4/ac/exterior-front.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 682,
+                            "maxWidth": 1023,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/df/e4/d6/outdoor-swimming-pool.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 617,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/df/e4/d5/swimming-pool.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 682,
+                            "maxWidth": 1023,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/df/e4/d4/fitness-center.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=131576590&geo=14180046&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=10&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=JksD2oo2ptsMCvV-TzCrfuG0Ln7cM_Y9M-t3UFB-kwBYSAhXE3B-9Gpf4kqeIk_Uoul486rARfADZs07A019XnC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQtv415Ybuy6Ln_D5KPsDeeqLh4rdWTiEZAkOKK3PBMGPGNDTfZl7010R13ud-P3HeNgSHjhglC1rJP5pfGSS-xxLfQ-Dimsf4qle16GYQIsXVMDtGjb1ClmfFMllEFhiP8wg2en1drozsggW9SbBKM79NnQSN-Tth0DVIXUwyZiY&priceShown=208&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2500&rq=P&rate=168.7400&fees=38.8100&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_32bc50dff0943f0b25f8ca8dc40dec9e&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=1febc909-ec06-443b-9aea-abb8b3445810&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=11117cec0c1ac59810bd762fee0098991&ik=84248a41e3564a87bd6bf8f61da98a93&aok=023bd568a5a346e6afb14bc60a51fce8&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$208",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "23643506",
+                "title": "Ibis Mumbai Vikhroli Hotel",
+                "primaryInfo": null,
+                "secondaryInfo": "Kurla West",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "163",
+                    "rating": 4.5
+                },
+                "isSponsored": true,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$98",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 768,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/41/5d/b9/exterior.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 768,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/41/69/77/exterior.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 768,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/41/69/78/exterior.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 768,
+                            "maxWidth": 1024,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/3e/14/a7/barlounge.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=213414665&geo=23643506&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995261&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=287334673&managed=false&capped=false&gosox=nGl1oyLpxC8_yipdQKcsp-peSEqUAq0Wuag4vIAxEKHRYuwvu6RPawyOk-yoWmXoG61Rpj85n1Yl7dWMntFG-2L8MwH7fylj4lzb4_mE4F3HknKGe7WaEKOpGAY3Md4EbztOketM7YzTNfcDNvwtlnD_K5HSkvvtDkxGh_siiklePJMIfLjcvs-DbVBtuTg2KLr1YxFYF7I9EIyBoIzHgRjoIaEFSLClEj21Z0-XfPlmsoJwJLdRF6M3_MJALcMd&priceShown=98&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2100&rq=P&rate=87.0700&fees=10.4500&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_4da22ed0c7380e3dd182ead15d1ba010&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=9b4e6a80-7ded-4dd4-a13b-80805e22e1d9&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1858ba606ddaba23ec448f3a3a95325d3&ik=84248a41e3564a87bd6bf8f61da98a93&aok=2e2a2d3b72064da88fec5c3b421de0fe&tp=APS-Hotels&pageLocId=304554&area=Spons%7CSpons_Meta_Pref",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$98",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "20329096",
+                "title": "21. Hotel Cliffton",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Western Suburbs",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "26",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$115",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1280,
+                            "maxWidth": 1280,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/0e/05/hotel-cliffton.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 500,
+                            "maxWidth": 750,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/10/19/hotel-cliffton.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 500,
+                            "maxWidth": 750,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/0f/d9/coffee-maker.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 500,
+                            "maxWidth": 750,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6b/0f/22/safe-locker.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=177158278&geo=20329096&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=8&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=MC5J7q8Dd_u8PPYJDWltSqF9-4M62fswbeDbuBL5c_Hn8A3Rzv9_rBDU9LXeZAw8SMZYF-gblJb5a9BCLAH5bRutUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBdtD7ewZNNKzmbO3p2pIDzngONdmR1dLk2LfPlZPGMSaffbBc_OWZqWrTBZiC5a2B3AWrLl1NjGUeWxlo6e5zI2ueT8zDvxxe0J5wUhwRTSQUg0qSTUnqdfoSZWanFexuN15DYEtGy59Q-1m9AnRHAng&priceShown=115&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=5500&rq=ML&rate=97.3500&fees=17.5200&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_c9082ad87f9f425da1e16beb03d2c1a&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=fdefa621-8cb6-4d08-af48-5e049181526a&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1e2504d9ea13ffb46ccc58e0560ecee98&ik=84248a41e3564a87bd6bf8f61da98a93&aok=76894a851e1849c58e98efa27e6a1f31&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$115",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "307114",
+                "title": "22. Sun-n-Sand Hotel, Mumbai",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Juhu",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "1,124",
+                    "rating": 4
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$189",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2304,
+                            "maxWidth": 4037,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/da/71/night-shot-poolside.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 345,
+                            "maxWidth": 550,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/6c/62/34/hotel-exterior.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 237,
+                            "maxWidth": 352,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/74/3f/b8/hotel-exterior.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 360,
+                            "maxWidth": 550,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/6c/62/ad/hotel-exterior.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=44155269&geo=307114&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=9&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=WjjYyzlkyaoS7YK4fjaGpOG0Ln7cM_Y9M-t3UFB-kwCd07uiI9BW8qX43-fxlpmYj0rokORffThTqRqZr13AYXC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQyVjDjxL7bPczxd_gMUhl8oJU9hchJLRJyDdAtPiywq9m_kGlf-vMiMvk1Xc_aKLW_n1gOiSXtsy3z7WHWuhC0e8vlISAbD3gV1Ypvn9gQrEY6CGhBUiwpRI9tWdPl3z5ZrKCcCS3URejN_zCQC3DHQ&priceShown=189&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2800&rq=P&rate=160.1200&fees=28.8200&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_579f6ea19dac7c05281e96c55eadae55&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=91f5f5e6-3e7a-4cde-a106-5c306ee2214a&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1ea2ed9f06bbcd3ecfcc861993125e828&ik=84248a41e3564a87bd6bf8f61da98a93&aok=ac190c7da9644255b6d65d6ddb6cd7ea&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$189",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "1136355",
+                "title": "23. The Regale by Tunga",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Marol",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "489",
+                    "rating": 4
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Agoda.com",
+                "priceForDisplay": "$123",
+                "strikethroughPrice": null,
+                "priceDetails": null,
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f0/e3/18/icon--v15258552.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1214,
+                            "maxWidth": 800,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/cd/81/20/tunga-regale.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1016,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/c9/e4/e1/tunga-regale.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 973,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/c9/ed/d5/tunga-regale.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=Agoda&src=37265580&geo=1136355&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=11&silo=5094&bucket=907715&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=T4T4IUwqYOz6wqK3m4Z9shUP61tqrue5e1IfdX7-xQTD6kl65yfT77E-AJQRKN1J6m_P6pna8592RaZsr_Xir7OvMf17x3j40mQkDBDtnpbgu64WBf-mbmhtKS8oJ58lOSjVIGwsnoZhCi_sNeKPykcjS8ufz6jVthsjdB-UL7nHOYDszY-lGMmAVIGMmMb0GtYXkckjUTdWraqCZsFg068V3gHu0yzHBj562QGdoqnFmY_jvIKzD8KPHVZr-bzkV5TZldSdNBdUSEl35bu7XoQZNJYvftcMNr9qO9AIF9Y&priceShown=123&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2500&rq=P&rate=98.4500&fees=24.6700&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_3a97b4bb76a321a65fc8a75026aa0e26&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=022e723b-0abd-45fb-a257-fb212379df30&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=10f37551aeecfa145215389887fa02948&ik=84248a41e3564a87bd6bf8f61da98a93&aok=264e99e144ef41d6aa1f4ef64a45cb62&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Agoda.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$123",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": null,
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "15673505",
+                "title": "24. Ramee Techome Khar",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Bandra West",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "131",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$143",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 4480,
+                            "maxWidth": 6720,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/57/e1/36/caption.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1518,
+                            "maxWidth": 1200,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/57/e7/48/caption.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1509,
+                            "maxWidth": 1200,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/57/e7/47/caption.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 863,
+                            "maxWidth": 1200,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/57/e7/46/caption.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=138370373&geo=15673505&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=7&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=cgAMKQ207G0NznWErg5MV6F9-4M62fswbeDbuBL5c_EINUboNkKqDTRFKXU0HywiPfaMc5iqAxjrMyYMoUbv0RutUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBdcH7KC07pBwa_wBoZ8bOoPUw1Yks_-i56Grj4v57rnoxNadM9iwZduEgWGGHBSDbuuEgqVl8jcVwi10UuCQXZN3-cos8KWbPvDrdyMImnAQbug2uA0ALoLne7Bbtzlo-KAEanTBbzd_gKZ5gmnb_xOQ&priceShown=143&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2600&rq=P&rate=120.8600&fees=21.7600&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_71c0615021f46655a8c406fc2d487fed&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=9643bf26-2a4f-4c5d-8988-eb870aee511b&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=12921facb5ceca52ef58f6b12db172775&ik=84248a41e3564a87bd6bf8f61da98a93&aok=c9ce14d8bac2493db6b158efe6da8ae7&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$143",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "299756",
+                "title": "25. The Westin Mumbai Powai Lake",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Eastern Suburbs",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "3,272",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$203",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 4912,
+                            "maxWidth": 7360,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/fa/ef/c2/renaissance-mumbai-convention.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2667,
+                            "maxWidth": 4000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/5f/ba/e3/heavenly-bed-by-the-lake.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3508,
+                            "maxWidth": 2480,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/79/7b/9d/the-westin-getaway-package.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 5418,
+                            "maxWidth": 8126,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/4c/ed/f2/heavenly-spa-by-westin.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32503420&geo=299756&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=10&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=mLJIZyOQJm3IV3Azj4_wMuG0Ln7cM_Y9M-t3UFB-kwD-uvg9UmkFOqlwtqnGvQlK-UaIfNlgZvJdXYRoj4thhXC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQkDFt487q3-hSqO5Gbu7u9sw036F08EN3T287oPpMUPB8QnngSqYneIOe3PJnLd-ctPnPoz6jQVrK1D7XnReqcwZpnXltMDT6gjub9aznkbI78XYOHrqd9PJpc2ZsQjfMFZFAOpl6_zarE1AbKobfPw&priceShown=203&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=1600&rq=P&rate=171.7600&fees=30.9200&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_604ab9066662dbef4c044802b67def35&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=95919add-f188-4658-8cac-71d33f5e3217&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=10c6f73d93e0b6ad1a295a4cbef427211&ik=84248a41e3564a87bd6bf8f61da98a93&aok=fc73f10ee5cb4235ace4c9233fbe9bc6&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$203",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "446992",
+                "title": "Hotel Suba Palace",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Wellington Pier",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "650",
+                    "rating": 4
+                },
+                "isSponsored": true,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$228",
+                "strikethroughPrice": null,
+                "priceDetails": "Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2672,
+                            "maxWidth": 4000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/49/ed/40/hotel-suba-palace.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1021,
+                            "maxWidth": 900,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/fd/0a/71/facade.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/66/54/09/entrance--v16402886.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1733,
+                            "maxWidth": 2600,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/66/53/f7/lobby--v16402782.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=40431952&geo=446992&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995261&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=287334673&managed=false&capped=false&gosox=1hWF3dZtAw1fN4csTybzUU05zB-eb-EfCr46Wvlur8Xq1qj0cowOwVmPU9aV72DCG61Rpj85n1Yl7dWMntFG-2L8MwH7fylj4lzb4_mE4F3l7KqqUUb7FUcKyfSz4M4xFS5tLitrPzJLvSJqC1MtuUqUuhUFk3tycUp7Qo6WoZET2pvwv2HMG29qjGAFMX3ZYQqcIuimxqwsvAiBohKJK-6Da4DQAugud7sFu3OWj4oARqdMFvN3-ApnmCadv_E5&priceShown=228&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=9300&rq=P&rate=192.8500&fees=34.7100&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_70319dcbe6a680e269d35db09875112d&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=bd9cae66-876d-433b-879a-7170ed736d42&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=156cd39ac4d858e8b0ff2597dcb8c3eb7&ik=84248a41e3564a87bd6bf8f61da98a93&aok=3ffddaed668b4e388a662ad8df9dda56&tp=APS-Hotels&pageLocId=304554&area=Spons%7CSpons_Meta_Pref",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$228",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "308380",
+                "title": "26. Hotel Accord",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Santacruz East",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "291",
+                    "rating": 4
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$55",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2160,
+                            "maxWidth": 3840,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/dc/1a/e3/this-is-one-the-eco-rooms.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2250,
+                            "maxWidth": 3000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/50/a4/f6/eco-executive-deluxe.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2250,
+                            "maxWidth": 3000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/50/a4/f1/eco-executive-deluxe.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 367,
+                            "maxWidth": 550,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/6b/78/d9/deluxe-room-interior.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=44140235&geo=308380&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=8&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=g-OzMr1DzzxoimCFuLVC9qF9-4M62fswbeDbuBL5c_FNOcwfnm_hHwq-Olr5bq_FSeQ8cv6QrO2exas-pQtulRutUaY_OZ9WJe3VjJ7RRvti_DMB-38pY-Jc2-P5hOBdqAzTwQlRMr-gUSGxrHOpUSgf2dk_Lmsd9TdrkeGfxqzvCPhvOkP3QSZnTQ9m-xfyDWSuuD-PPsMQQD6kz8FT-n-cos8KWbPvDrdyMImnAQbug2uA0ALoLne7Bbtzlo-KAEanTBbzd_gKZ5gmnb_xOQ&priceShown=55&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=1600&rq=ML&rate=49.3600&fees=5.9200&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_394dfd03f64331951efc6c2e5180b851&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=180cb17a-ed7b-4a47-95a8-be7d29733719&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=149b2f0169ab767860ed81d23d1479658&ik=84248a41e3564a87bd6bf8f61da98a93&aok=639d535673ad437bac0d4876fd81e501&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$55",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "1534164",
+                "title": "27. The Ambassador Mumbai",
+                "primaryInfo": null,
+                "secondaryInfo": "Marine Drive",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "838",
+                    "rating": 4
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$179",
+                "strikethroughPrice": null,
+                "priceDetails": "Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2686,
+                            "maxWidth": 4160,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/6d/8c/b1/exterior.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 2661,
+                            "maxWidth": 4674,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/b9/b4/99/lobby.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3744,
+                            "maxWidth": 5616,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/0b/93/d7/reception.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3744,
+                            "maxWidth": 5616,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/0b/99/9d/society-restaurant.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=61512311&geo=1534164&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=9&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=umSgl1WDZyOJ9QQ6dJ-gM-G0Ln7cM_Y9M-t3UFB-kwDKneeYxytJ7VrN2Chv01DR584dlrEACb7TEmej4R5j8nC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQOYla0QaVnV_n8kjdGSASiJ8CJYSsZd_PreoSPoBi-N5uJZPxTioRyKQKvnJDi0MRsT_jaqQZs9qXG-1uO5w3fwZpnXltMDT6gjub9aznkbI78XYOHrqd9PJpc2ZsQjfMFZFAOpl6_zarE1AbKobfPw&priceShown=179&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=2600&rq=P&rate=151.6600&fees=27.3000&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_4a4ff1350f6a98a52ef1412f6ffe16d7&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=fcf3f0f8-c47c-4ecc-9e34-c74e27a7e346&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1943828e28879212c629802a4ccc9b68a&ik=84248a41e3564a87bd6bf8f61da98a93&aok=5bcd587d67d54064a9f32d4cd5eb735b&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$179",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "20380216",
+                "title": "28. Theory9 Premium Service Apartments Bandra",
+                "primaryInfo": null,
+                "secondaryInfo": "Bandra West",
+                "badge": {},
+                "bubbleRating": {
+                    "count": "14",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$127",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3648,
+                            "maxWidth": 5472,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/48/a9/b2/theory9-premium-service.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3072,
+                            "maxWidth": 5472,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/48/b0/d2/property-entrance.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3648,
+                            "maxWidth": 5472,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/48/a7/8a/theory9-premium-service.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3000,
+                            "maxWidth": 4500,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/48/a7/eb/theory9-premium-service.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=179219214&geo=20380216&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=da4lt2aRaUEUFEI7PH5WoOG0Ln7cM_Y9M-t3UFB-kwBPwLhcr8LiKrws0dXNMcjisENpRe9LuJI_nfbI2-C0dEQCYj34en-Nvk0c6yxtDicumXnWwu915X8Tjv9YUVfl_mRHDEVc3Kq5ggazvxah6U5Da2v-STy2JZvrFsib_V8zWVw8SHbUl5aGbcmv1vCKSlf5idce3jdKP0sqQ83uYu8vlISAbD3gV1Ypvn9gQrEY6CGhBUiwpRI9tWdPl3z5ZrKCcCS3URejN_zCQC3DHQ&priceShown=127&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=800&rq=P&rate=107.2800&fees=19.3100&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_34583fc0eb8fbe59caebcb36a686b0bf&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=746d2c00-5202-4089-8536-6fac2a5f3161&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1cc2a9d319e59b2b43cfd601d311026ea&ik=84248a41e3564a87bd6bf8f61da98a93&aok=82d66134289e4b258fd01a59b468ccf0&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$127",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "302179",
+                "title": "29. The Taj Mahal Palace",
+                "primaryInfo": null,
+                "secondaryInfo": "Wellington Pier",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "10,148",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$537",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 5792,
+                            "maxWidth": 8688,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/ef/27/exteriorlongshot.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 800,
+                            "maxWidth": 1067,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e9/b9/68/the-taj-mahal-palace.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 708,
+                            "maxWidth": 1064,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e9/b9/6e/the-taj-mahal-palace.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1325,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/14/b3/a7/taj-salon-signature-treatments.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=119330302&geo=302179&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=10&silo=10476&bucket=930631&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=287334673&managed=false&capped=false&gosox=R3mWKQNI2a72_T-eA1z0QuG0Ln7cM_Y9M-t3UFB-kwBuAaE1rhTz7hIQVgWeaBs11YtXaz277myl6KMc59U9OnC4rkFUtIURYQskLI9LS0ueCasrURG3-LI0RAbPFVLQbS5LYz0jGwGcT5QweU7LqTRx2sV0JaqyQ5argFUYB7ibAf6oX4sW5MwoPd57MOoFGS9TgAKoP8yzriLAoRyquxvaT3sT6G75NMeGh-NyJz7Z_uTFytrD0qPyLdpxOMnUm7A08-F2w4asmvNudo1pMyL-qlR2VVIusPyj-S87vAs&priceShown=537&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=5900&rq=P&rate=455.0000&fees=81.9000&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_3d2d93b76a76e5e1d8426d3221b213f4&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=1603d2a3-04a6-422f-8f61-9d38a324f24a&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=196ccfa511071582195856ea7ae7a1e60&ik=84248a41e3564a87bd6bf8f61da98a93&aok=5712017022a5467290583ce745fea903&tp=APS-Hotels&pageLocId=304554",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$537",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "13005940",
+                "title": "30. Taj Mahal Tower, Mumbai",
+                "primaryInfo": "Free breakfast included",
+                "secondaryInfo": "Wellington Pier",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "1,708",
+                    "rating": 4.5
+                },
+                "isSponsored": false,
+                "accentedLabel": false,
+                "provider": "Hotels.com",
+                "priceForDisplay": null,
+                "strikethroughPrice": null,
+                "priceDetails": null,
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 3141,
+                            "maxWidth": 4000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/7b/57/27/taj-mahal-tower-mumbai.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1117,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/46/b6/5a/deluxe-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1461,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/46/b5/e7/apollo-suite.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1456,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/46/b7/21/deluxe-room.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "provider": "Hotels.com",
+                    "loadingMessage": {
+                        "text": "Loading prices..."
+                    },
+                    "priceForDisplay": null,
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": null,
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            },
+            {
+                "id": "302179",
+                "title": "The Taj Mahal Palace",
+                "primaryInfo": null,
+                "secondaryInfo": "Wellington Pier",
+                "badge": {
+                    "size": "SMALL",
+                    "type": "TRAVELLER_CHOICE",
+                    "year": "2023"
+                },
+                "bubbleRating": {
+                    "count": "10,148",
+                    "rating": 4.5
+                },
+                "isSponsored": true,
+                "accentedLabel": false,
+                "provider": "Booking.com",
+                "priceForDisplay": "$537",
+                "strikethroughPrice": null,
+                "priceDetails": "Free cancellation \u2022 Reserve now, pay at stay",
+                "priceSummary": null,
+                "cardPhotos": [
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 5792,
+                            "maxWidth": 8688,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/ef/27/exteriorlongshot.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 800,
+                            "maxWidth": 1067,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e9/b9/68/the-taj-mahal-palace.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 708,
+                            "maxWidth": 1064,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e9/b9/6e/the-taj-mahal-palace.jpg?w={width}&h={height}&s=1"
+                        }
+                    },
+                    {
+                        "__typename": "AppPresentation_PhotoItem",
+                        "sizes": {
+                            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+                            "maxHeight": 1325,
+                            "maxWidth": 2000,
+                            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/14/b3/a7/taj-salon-signature-treatments.jpg?w={width}&h={height}&s=1"
+                        }
+                    }
+                ],
+                "commerceInfo": {
+                    "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=119330302&geo=302179&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995261&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=287334673&managed=false&capped=false&gosox=1hWF3dZtAw1fN4csTybzUU05zB-eb-EfCr46Wvlur8UhoB33f9wI6xC4-NmPAGjCG61Rpj85n1Yl7dWMntFG-2L8MwH7fylj4lzb4_mE4F3OMSrynUuw2wcZeC6ikaQ9MpabaAD3E5HgjQa5VU9cEDaL9WqOgzVu8UwgZc-ROZ3TjcdTlO9gK8nCQ2WxzyXByPeQZboGEIV6O5ySCLRJzIKILX1O2rd-fXkuN-lnec_VZAILKo0pbugO6DDsw1aX&priceShown=537&pm=AIWE&hac=AVAILABLE&mbl=LOSE&mbldelta=5900&rq=P&rate=455.0000&fees=81.9000&cur=USD&adults=1&child_rm_ages=&inDay=15&outDay=19&rdex=RDEX_3d2d93b76a76e5e1d8426d3221b213f4&rooms=1&inMonth=2&inYear=2024&outMonth=2&outYear=2024&auid=c3a7184a-039e-4dc6-ab11-a76dc2ce602d&def_d=true&bld=L_4,D_6,G_1,W_4,U_1,C_240215,T_21&bh=true&cs=1e094b9c3989b58f5a965ba58aca204ff&ik=84248a41e3564a87bd6bf8f61da98a93&aok=faa1510833d549aebe2714f759be55cd&tp=APS-Hotels&pageLocId=304554&area=Spons%7CSpons_Meta_Pref",
+                    "provider": "Booking.com",
+                    "loadingMessage": null,
+                    "priceForDisplay": {
+                        "text": "$537",
+                        "debugValueKey": null
+                    },
+                    "strikethroughPrice": null,
+                    "pricingPeriod": null,
+                    "details": {
+                        "text": "Free cancellation \u2022 Reserve now, pay at stay"
+                    },
+                    "commerceSummary": null,
+                    "roomUrgencyMessage": null,
+                    "labels": []
+                }
+            }
+        ]
+    }
+}

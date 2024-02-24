@@ -4,9 +4,9 @@ from pymongo.collection import Collection
 from bson.objectid import ObjectId
 from datetime import datetime
 from app.db.hash import Hash
-from app.schemas import UserCreate, UserGet, User
+from app.schemas import UserCreate, UserGet
 from app import jwttoken
-from typing import TypedDict, Any
+from typing import Any
 
 
 async def get_user_by_id(db: Database, id: int):
@@ -82,7 +82,6 @@ async def create_user(db: Database, request: UserCreate):
 async def authenticate_user(db: Database, email: str, password: str):
     collection: Collection[dict[str, Any]] = db.get_collection("users")
 
-    # collection: Collection[User] = db.get_collection("users")
     user = collection.find_one({"email": email})
 
     if user and Hash.verify(user["password"], password):
