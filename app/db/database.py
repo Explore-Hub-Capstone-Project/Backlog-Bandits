@@ -1,30 +1,23 @@
-from sqlalchemy import URL
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.ext.asyncio import (
-    async_sessionmaker,
-    create_async_engine,
-)
+from pymongo import MongoClient
+from typing import Dict, Any
 from app.config import settings
+import os
 
 
-uri = URL.create(
-    "postgresql+asyncpg",
-    username=settings.db_username,
-    password=settings.db_password,  # plain (unescaped) text
-    host=settings.db_host,
-    database=settings.db_database,
-)
+def get_db():
+    if os.getenv("MONGODB_URI") is not None:
+        mongodb_uri = os.getenv("MONGODB_URI")
+    else:
+        mongodb_uri = settings.connection_string
 
-engine = create_async_engine(uri, future=True, echo=True)
-Session = async_sessionmaker(autocommit=False, autoflush=False, bind=engine)
+        # if the env var MONGODB_URI exists
+        # then use it as the uri for MongoClient
+    # otherwise use the one in settings.connection_string
+    client: MongoClient[Dict[str, Any]] = MongoClient(mongodb_uri, settings.mongo_port)
+    db = client[settings.database_name]
 
-Base = declarative_base()
-
-
-async def get_db():
-    db = Session()
     try:
         yield db
 
     finally:
-        await db.close()
+        client.close()
