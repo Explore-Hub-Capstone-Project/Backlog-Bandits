@@ -1,60 +1,107 @@
-from app.db.hash import Hash
-from sqlalchemy import select
-from app.schemas import UserBase
-from app.db.models import User
 from fastapi import HTTPException, status
-from typing import Sequence
-from sqlalchemy.ext.asyncio import AsyncSession
+from pymongo.database import Database
+from pymongo.collection import Collection
+from bson.objectid import ObjectId
+from datetime import datetime
+from app.db.hash import Hash
+from app.schemas import UserCreate, UserGet, User
+from app import jwttoken
+from typing import TypedDict, Any
 
 
-async def create_user(db: AsyncSession, request: UserBase):
-    new_user = User(
-        username=request.username,
-        email=request.email,
-        password=Hash.bcrypt(request.password),
-    )
+async def get_user_by_id(db: Database, id: int):
+    user_collection = db.get_collection("users")
+    user = user_collection.find_one({"id": id})
 
-    db.add(new_user)
-    await db.commit()
-    await db.refresh(new_user)
-    return new_user
-
-
-async def get_all_users(db: AsyncSession) -> Sequence[User]:
-    result = await db.execute(select(User))
-    users: Sequence[User] = result.scalars().all()
-    return users
-
-
-async def get_user(db: AsyncSession, id: int) -> User:
-    # handle any exceptions
-    result = await db.execute(select(User).where(User.id == id))
-    user = result.scalar_one_or_none()
     if not user:
         raise HTTPException(
-            status_code=status.HTTP_404_NOT_FOUND, detail=f"User with id {id} not found"
+            status_code=status.HTTP_404_NOT_FOUND, detail="User not found"
         )
+
     return user
 
 
-async def update_user(db: AsyncSession, id: int, request: UserBase):
-    user: User = await get_user(db, id)
-    user.update(
-        {
-            User.username: request.username,
-            User.email: request.email,
-            User.password: Hash.bcrypt(request.password),
-        }
+async def get_user(db: Database, request: UserGet):
+    if request.id:
+        user_identifier = {"_id": ObjectId(request.id)}
+    elif request.email:
+        user_identifier = {"email": request.email}
+    elif request.username:
+        user_identifier = {"username": request.username}
+    else:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND, detail="User not found"
+        )
+
+    print("User identifier:", user_identifier)
+
+    user = db.get_collection("users").find_one(user_identifier)
+
+    if not user:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND, detail="User not found"
+        )
+    user["id"] = str(user.pop("_id"))
+    return user
+
+
+async def create_user(db: Database, request: UserCreate):
+    collection = db.get_collection("users")
+    existing_user = collection.find_one({"email": request.email})
+    if existing_user:
+        raise HTTPException(status_code=400, detail="Email already registered")
+    hashed_password = Hash.bcrypt(request.password)
+    existing_username = collection.find_one({"username": request.username})
+    if existing_username:
+        raise HTTPException(status_code=400, detail="Username already exists.")
+
+    user = {
+        "firstname": request.firstname,
+        "lastname": request.lastname,
+        "username": request.username,
+        "email": request.email,
+        "mobile": request.mobile,
+        "country": request.country,
+        "password": hashed_password,
+        "createdAt": datetime.utcnow(),
+        "updatedAt": datetime.utcnow(),
+    }
+
+    result = collection.insert_one(user)
+    if not result.acknowledged:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="User could not be created due to an error.",
+        )
+
+    user["id"] = str(result.inserted_id)
+    print(user)
+    return user
+
+
+async def authenticate_user(db: Database, email: str, password: str):
+    collection: Collection[dict[str, Any]] = db.get_collection("users")
+
+    # collection: Collection[User] = db.get_collection("users")
+    user = collection.find_one({"email": email})
+
+    if user and Hash.verify(user["password"], password):
+        access_token = jwttoken.create_access_token(data={"sub": user["email"]})
+        user["id"] = str(user.pop("_id"))
+        return {"user": user, "access_token": access_token, "token_type": "bearer"}
+
+    raise HTTPException(
+        status_code=status.HTTP_401_UNAUTHORIZED,
+        detail="User is not authorized",
     )
 
-    await db.commit()
-    return "ok"
 
-
-async def delete_user(db: AsyncSession, id: int):
-    user: User = await get_user(db, id)
-    # handle any exception
-
-    await db.delete(user)
-    await db.commit()
-    return "ok"
+async def update_user_info(db: Database, email: str, update_data: dict):
+    collection = db.get_collection("users")
+    if "password" in update_data:
+        update_data["password"] = Hash.bcrypt(update_data["password"])
+    update_data["updatedAt"] = datetime.utcnow()
+    result = collection.update_one({"email": email}, {"$set": update_data})
+    if result.modified_count == 0:
+        return None
+    return update_data
