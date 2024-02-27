@@ -6,11 +6,12 @@ import uvicorn
 from app.config import settings
 from fastapi.middleware.cors import CORSMiddleware
 
-
 origins = ["http://localhost:3000"]
 
 
 app = FastAPI()
+
+
 app.include_router(user.router)
 app.add_middleware(
     CORSMiddleware,

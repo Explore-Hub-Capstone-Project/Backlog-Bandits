@@ -18,12 +18,16 @@ def create_access_token(data: dict):
     return encoded_jwt
 
 
-def verify_token(token: str, credentials_exception):
+def verify_token(token: str, credentials_exception: Exception):
     try:
         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
-        username_payload: Any | None = payload.get("sub")
-        if username_payload is None or not isinstance(username_payload, str):
+        email_payload: Any | None = payload.get("user_email", None)
+        id_payload: Any | None = payload.get("user_id", None)
+        if email_payload is None or not isinstance(email_payload, str):
             raise credentials_exception
+        if id_payload is None or not isinstance(id_payload, str):
+            raise credentials_exception
+        return {"email": email_payload, "id": id_payload}
         # username: str = str(username_payl)
     except JWTError:
         raise credentials_exception

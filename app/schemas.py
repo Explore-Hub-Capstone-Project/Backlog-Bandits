@@ -36,8 +36,13 @@ class UserGet(BaseModel):
 
 
 class User(BaseModel):
+    id: str
+    firstname: str
+    lastname: str
+    username: str
     email: str
-    company: str
+    mobile: str
+    country: str
     password: str
 
 
@@ -51,7 +56,7 @@ class TokenData(BaseModel):
 
 
 class LoginSchema(BaseModel):
-    email: EmailStr
+    username: str
     password: str
 
 
