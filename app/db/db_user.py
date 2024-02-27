@@ -4,7 +4,7 @@ from pymongo.collection import Collection
 from bson.objectid import ObjectId
 from datetime import datetime
 from app.db.hash import Hash
-from app.schemas import UserCreate, UserGet
+from app.schemas import UserCreate, UserGet, User
 from app import jwttoken
 from typing import Any
 
@@ -34,15 +34,15 @@ async def get_user(db: Database, request: UserGet):
         )
 
     print("User identifier:", user_identifier)
-
-    user = db.get_collection("users").find_one(user_identifier)
+    collection: Collection[dict[str, Any]] = db.get_collection("users")
+    user = collection.find_one(user_identifier)
 
     if not user:
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND, detail="User not found"
         )
     user["id"] = str(user.pop("_id"))
-    return user
+    return User(**user)
 
 
 async def create_user(db: Database, request: UserCreate):
@@ -85,7 +85,9 @@ async def authenticate_user(db: Database, email: str, password: str):
     user = collection.find_one({"email": email})
 
     if user and Hash.verify(user["password"], password):
-        access_token = jwttoken.create_access_token(data={"sub": user["email"]})
+        access_token = jwttoken.create_access_token(
+            data={"user_email": user["email"], "user_id": str(user["_id"])}
+        )
         user["id"] = str(user.pop("_id"))
         return {"user": user, "access_token": access_token, "token_type": "bearer"}
 
