@@ -79,10 +79,19 @@ async def create_user(db: Database, request: UserCreate):
     return user
 
 
-async def authenticate_user(db: Database, email: str, password: str):
+async def authenticate_user(db: Database, identifier: UserGet, password: str):
     collection: Collection[dict[str, Any]] = db.get_collection("users")
-
-    user = collection.find_one({"email": email})
+    if identifier.id:
+        query = {"_id": ObjectId(identifier.id)}
+    elif identifier.email:
+        query = {"email": identifier.email}
+    elif identifier.username:
+        query = {"username": identifier.username}
+    else:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND, detail="User not found"
+        )
+    user = collection.find_one(query)
 
     if user and Hash.verify(user["password"], password):
         access_token = jwttoken.create_access_token(
