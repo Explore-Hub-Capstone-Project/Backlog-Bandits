@@ -44,7 +44,9 @@ async def get_current_user(
     return user
 
 
-@router.post("/", response_model=UserDisplay, status_code=status.HTTP_201_CREATED)
+@router.post(
+    "/register", response_model=UserDisplay, status_code=status.HTTP_201_CREATED
+)
 async def register_user(request: UserCreate, db: Database = Depends(get_db)):
     return await db_user.create_user(db, request)
 
@@ -54,7 +56,16 @@ async def login(
     request: Annotated[OAuth2PasswordRequestForm, Depends()],
     db: Database = Depends(get_db),
 ):
-    response = await db_user.authenticate_user(db, request.username, request.password)
+    input = request.username
+
+    if "@" in input:
+        # input is an email
+        userGet = UserGet(email=input)
+    else:
+        # input is a username
+        userGet = UserGet(username=input)
+
+    response = await db_user.authenticate_user(db, userGet, request.password)
     return response
 
 
